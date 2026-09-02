@@ -1,0 +1,62 @@
+[
+  {
+    "file": "tu-vung/khoa-hoc-cong-nghe-va-ky-thuat/dien-thoai-thong-minh/01-充电器.webp",
+    "zh": "充电器",
+    "pinyin": "chōngdiànqì",
+    "vi": "bộ sạc"
+  },
+  {
+    "file": "tu-vung/khoa-hoc-cong-nghe-va-ky-thuat/dien-thoai-thong-minh/02-手机.webp",
+    "zh": "手机",
+    "pinyin": "shǒujī",
+    "vi": "điện thoại di động"
+  },
+  {
+    "file": "tu-vung/khoa-hoc-cong-nghe-va-ky-thuat/dien-thoai-thong-minh/03-短信.webp",
+    "zh": "短信",
+    "pinyin": "duǎnxìn",
+    "vi": "tin nhắn"
+  },
+  {
+    "file": "tu-vung/khoa-hoc-cong-nghe-va-ky-thuat/dien-thoai-thong-minh/04-视频.webp",
+    "zh": "视频",
+    "pinyin": "shìpín",
+    "vi": "video"
+  },
+  {
+    "file": "tu-vung/khoa-hoc-cong-nghe-va-ky-thuat/dien-thoai-thong-minh/05-通话.webp",
+    "zh": "通话",
+    "pinyin": "tōnghuà",
+    "vi": "cuộc gọi"
+  },
+  {
+    "file": "tu-vung/khoa-hoc-cong-nghe-va-ky-thuat/dien-thoai-thong-minh/06-邮箱.webp",
+    "zh": "邮箱",
+    "pinyin": "yóuxiāng",
+    "vi": "hộp thư"
+  },
+  {
+    "file": "tu-vung/khoa-hoc-cong-nghe-va-ky-thuat/dien-thoai-thong-minh/07-铃声.webp",
+    "zh": "铃声",
+    "pinyin": "língshēng",
+    "vi": "nhạc chuông"
+  },
+  {
+    "file": "tu-vung/khoa-hoc-cong-nghe-va-ky-thuat/dien-thoai-thong-minh/08-音响.webp",
+    "zh": "音响",
+    "pinyin": "yīnxiǎng",
+    "vi": "dàn âm thanh"
+  },
+  {
+    "file": "tu-vung/khoa-hoc-cong-nghe-va-ky-thuat/dien-thoai-thong-minh/09-录像.webp",
+    "zh": "录像",
+    "pinyin": "lùxiàng",
+    "vi": "quay phim"
+  },
+  {
+    "file": "tu-vung/khoa-hoc-cong-nghe-va-ky-thuat/dien-thoai-thong-minh/10-邮件.webp",
+    "zh": "邮件",
+    "pinyin": "yóujiàn",
+    "vi": "thư"
+  }
+]

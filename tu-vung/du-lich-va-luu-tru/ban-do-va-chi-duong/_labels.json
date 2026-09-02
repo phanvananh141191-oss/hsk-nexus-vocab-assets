@@ -1,0 +1,62 @@
+[
+  {
+    "file": "tu-vung/du-lich-va-luu-tru/ban-do-va-chi-duong/01-地图.webp",
+    "zh": "地图",
+    "pinyin": "dìtú",
+    "vi": "bản đồ"
+  },
+  {
+    "file": "tu-vung/du-lich-va-luu-tru/ban-do-va-chi-duong/02-带路.webp",
+    "zh": "带路",
+    "pinyin": "dàilù",
+    "vi": "dẫn đường"
+  },
+  {
+    "file": "tu-vung/du-lich-va-luu-tru/ban-do-va-chi-duong/03-平面图.webp",
+    "zh": "平面图",
+    "pinyin": "píngmiàntú",
+    "vi": "sơ đồ mặt bằng"
+  },
+  {
+    "file": "tu-vung/du-lich-va-luu-tru/ban-do-va-chi-duong/04-旅游问询处.webp",
+    "zh": "旅游问询处",
+    "pinyin": "lǚyóuwènxúnchù",
+    "vi": "quầy thông tin du lịch"
+  },
+  {
+    "file": "tu-vung/du-lich-va-luu-tru/ban-do-va-chi-duong/05-直行.webp",
+    "zh": "直行",
+    "pinyin": "zhíxíng",
+    "vi": "đi thẳng"
+  },
+  {
+    "file": "tu-vung/du-lich-va-luu-tru/ban-do-va-chi-duong/06-路线.webp",
+    "zh": "路线",
+    "pinyin": "lùxiàn",
+    "vi": "tuyến đường"
+  },
+  {
+    "file": "tu-vung/du-lich-va-luu-tru/ban-do-va-chi-duong/07-问路.webp",
+    "zh": "问路",
+    "pinyin": "wènlù",
+    "vi": "hỏi đường"
+  },
+  {
+    "file": "tu-vung/du-lich-va-luu-tru/ban-do-va-chi-duong/08-右.webp",
+    "zh": "右",
+    "pinyin": "yòu",
+    "vi": "phải"
+  },
+  {
+    "file": "tu-vung/du-lich-va-luu-tru/ban-do-va-chi-duong/09-左.webp",
+    "zh": "左",
+    "pinyin": "zuǒ",
+    "vi": "trái"
+  },
+  {
+    "file": "tu-vung/du-lich-va-luu-tru/ban-do-va-chi-duong/10-指引.webp",
+    "zh": "指引",
+    "pinyin": "zhǐyǐn",
+    "vi": "hướng dẫn"
+  }
+]

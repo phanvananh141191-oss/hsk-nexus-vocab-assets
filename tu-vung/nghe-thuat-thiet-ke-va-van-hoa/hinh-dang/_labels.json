@@ -1,0 +1,62 @@
+[
+  {
+    "file": "tu-vung/nghe-thuat-thiet-ke-va-van-hoa/hinh-dang/01-三角形.webp",
+    "zh": "三角形",
+    "pinyin": "sānjiǎoxíng",
+    "vi": "tam giác"
+  },
+  {
+    "file": "tu-vung/nghe-thuat-thiet-ke-va-van-hoa/hinh-dang/02-五边形.webp",
+    "zh": "五边形",
+    "pinyin": "wǔbiānxíng",
+    "vi": "ngũ giác"
+  },
+  {
+    "file": "tu-vung/nghe-thuat-thiet-ke-va-van-hoa/hinh-dang/03-八边形.webp",
+    "zh": "八边形",
+    "pinyin": "bābiānxíng",
+    "vi": "bát giác"
+  },
+  {
+    "file": "tu-vung/nghe-thuat-thiet-ke-va-van-hoa/hinh-dang/04-六边形.webp",
+    "zh": "六边形",
+    "pinyin": "liùbiānxíng",
+    "vi": "lục giác"
+  },
+  {
+    "file": "tu-vung/nghe-thuat-thiet-ke-va-van-hoa/hinh-dang/05-圆形.webp",
+    "zh": "圆形",
+    "pinyin": "yuánxíng",
+    "vi": "hình tròn"
+  },
+  {
+    "file": "tu-vung/nghe-thuat-thiet-ke-va-van-hoa/hinh-dang/06-圆柱体.webp",
+    "zh": "圆柱体",
+    "pinyin": "yuánzhùtǐ",
+    "vi": "hình trụ"
+  },
+  {
+    "file": "tu-vung/nghe-thuat-thiet-ke-va-van-hoa/hinh-dang/07-圆锥体.webp",
+    "zh": "圆锥体",
+    "pinyin": "yuánzhuītǐ",
+    "vi": "hình nón"
+  },
+  {
+    "file": "tu-vung/nghe-thuat-thiet-ke-va-van-hoa/hinh-dang/08-正方形.webp",
+    "zh": "正方形",
+    "pinyin": "zhèngfāngxíng",
+    "vi": "hình vuông"
+  },
+  {
+    "file": "tu-vung/nghe-thuat-thiet-ke-va-van-hoa/hinh-dang/09-球体.webp",
+    "zh": "球体",
+    "pinyin": "qiútǐ",
+    "vi": "hình cầu"
+  },
+  {
+    "file": "tu-vung/nghe-thuat-thiet-ke-va-van-hoa/hinh-dang/10-立方体.webp",
+    "zh": "立方体",
+    "pinyin": "lìfāngtǐ",
+    "vi": "hình lập phương"
+  }
+]

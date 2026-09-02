@@ -1,0 +1,62 @@
+[
+  {
+    "file": "tu-vung/giao-thong/bien-bao-duong-bo/01-交通标志.webp",
+    "zh": "交通标志",
+    "pinyin": "jiāotōngbiāozhì",
+    "vi": "biển báo giao thông"
+  },
+  {
+    "file": "tu-vung/giao-thong/bien-bao-duong-bo/02-禁止停车.webp",
+    "zh": "禁止停车",
+    "pinyin": "jìnzhǐtíngchē",
+    "vi": "cấm đỗ xe"
+  },
+  {
+    "file": "tu-vung/giao-thong/bien-bao-duong-bo/03-禁止右转.webp",
+    "zh": "禁止右转",
+    "pinyin": "jìnzhǐyòuzhuǎn",
+    "vi": "cấm rẽ phải"
+  },
+  {
+    "file": "tu-vung/giao-thong/bien-bao-duong-bo/04-禁行.webp",
+    "zh": "禁行",
+    "pinyin": "jìnxíng",
+    "vi": "cấm đi"
+  },
+  {
+    "file": "tu-vung/giao-thong/bien-bao-duong-bo/05-红灯.webp",
+    "zh": "红灯",
+    "pinyin": "hóngdēng",
+    "vi": "đèn đỏ"
+  },
+  {
+    "file": "tu-vung/giao-thong/bien-bao-duong-bo/06-绿灯.webp",
+    "zh": "绿灯",
+    "pinyin": "lǜdēng",
+    "vi": "đèn xanh"
+  },
+  {
+    "file": "tu-vung/giao-thong/bien-bao-duong-bo/07-锥形隔离墩.webp",
+    "zh": "锥形隔离墩",
+    "pinyin": "zhuīxínggélídūn",
+    "vi": "cọc tiêu hình nón"
+  },
+  {
+    "file": "tu-vung/giao-thong/bien-bao-duong-bo/08-限速.webp",
+    "zh": "限速",
+    "pinyin": "xiànsù",
+    "vi": "giới hạn tốc độ"
+  },
+  {
+    "file": "tu-vung/giao-thong/bien-bao-duong-bo/09-止步.webp",
+    "zh": "止步",
+    "pinyin": "zhǐbù",
+    "vi": "dừng lại"
+  },
+  {
+    "file": "tu-vung/giao-thong/bien-bao-duong-bo/10-危险.webp",
+    "zh": "危险",
+    "pinyin": "wēixiǎn",
+    "vi": "nguy hiểm"
+  }
+]

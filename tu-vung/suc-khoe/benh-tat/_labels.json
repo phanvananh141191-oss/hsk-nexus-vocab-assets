@@ -1,0 +1,62 @@
+[
+  {
+    "file": "tu-vung/suc-khoe/benh-tat/01-病人.webp",
+    "zh": "病人",
+    "pinyin": "bìngrén",
+    "vi": "bệnh nhân"
+  },
+  {
+    "file": "tu-vung/suc-khoe/benh-tat/02-患者.webp",
+    "zh": "患者",
+    "pinyin": "huànzhě",
+    "vi": "người bệnh"
+  },
+  {
+    "file": "tu-vung/suc-khoe/benh-tat/03-咳嗽.webp",
+    "zh": "咳嗽",
+    "pinyin": "késòu",
+    "vi": "ho"
+  },
+  {
+    "file": "tu-vung/suc-khoe/benh-tat/04-喷嚏.webp",
+    "zh": "喷嚏",
+    "pinyin": "pēntì",
+    "vi": "hắt hơi"
+  },
+  {
+    "file": "tu-vung/suc-khoe/benh-tat/05-吸烟.webp",
+    "zh": "吸烟",
+    "pinyin": "xīyān",
+    "vi": "hút thuốc"
+  },
+  {
+    "file": "tu-vung/suc-khoe/benh-tat/06-气雾剂.webp",
+    "zh": "气雾剂",
+    "pinyin": "qìwùjì",
+    "vi": "bình xịt khí dung"
+  },
+  {
+    "file": "tu-vung/suc-khoe/benh-tat/07-盲人.webp",
+    "zh": "盲人",
+    "pinyin": "mángrén",
+    "vi": "người mù"
+  },
+  {
+    "file": "tu-vung/suc-khoe/benh-tat/08-感冒.webp",
+    "zh": "感冒",
+    "pinyin": "gǎnmào",
+    "vi": "cảm lạnh"
+  },
+  {
+    "file": "tu-vung/suc-khoe/benh-tat/09-头痛.webp",
+    "zh": "头痛",
+    "pinyin": "tóutòng",
+    "vi": "đau đầu"
+  },
+  {
+    "file": "tu-vung/suc-khoe/benh-tat/10-皮疹.webp",
+    "zh": "皮疹",
+    "pinyin": "pízhěn",
+    "vi": "ban da"
+  }
+]

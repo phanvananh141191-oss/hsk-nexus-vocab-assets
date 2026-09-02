@@ -1,0 +1,62 @@
+[
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/hoa-don-va-bien-lai/01-发票.webp",
+    "zh": "发票",
+    "pinyin": "fāpiào",
+    "vi": "hóa đơn"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/hoa-don-va-bien-lai/02-保险单.webp",
+    "zh": "保险单",
+    "pinyin": "bǎoxiǎndān",
+    "vi": "đơn bảo hiểm"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/hoa-don-va-bien-lai/03-凭证.webp",
+    "zh": "凭证",
+    "pinyin": "píngzhèng",
+    "vi": "chứng từ"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/hoa-don-va-bien-lai/04-装箱单.webp",
+    "zh": "装箱单",
+    "pinyin": "zhuāngxiāngdān",
+    "vi": "phiếu đóng gói"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/hoa-don-va-bien-lai/05-报销.webp",
+    "zh": "报销",
+    "pinyin": "bàoxiāo",
+    "vi": "hoàn ứng"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/hoa-don-va-bien-lai/06-商业发票.webp",
+    "zh": "商业发票",
+    "pinyin": "shāngyèfāpiào",
+    "vi": "hóa đơn thương mại"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/hoa-don-va-bien-lai/07-算账.webp",
+    "zh": "算账",
+    "pinyin": "suànzhàng",
+    "vi": "tính tiền"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/hoa-don-va-bien-lai/08-核对.webp",
+    "zh": "核对",
+    "pinyin": "héduì",
+    "vi": "đối chiếu"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/hoa-don-va-bien-lai/09-收费.webp",
+    "zh": "收费",
+    "pinyin": "shōufèi",
+    "vi": "thu phí"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/hoa-don-va-bien-lai/10-账.webp",
+    "zh": "账",
+    "pinyin": "zhàng",
+    "vi": "sổ sách"
+  }
+]

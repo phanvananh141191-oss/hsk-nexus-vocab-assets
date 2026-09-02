@@ -1,0 +1,62 @@
+[
+  {
+    "file": "tu-vung/thuc-pham/thit/01-牛肉.webp",
+    "zh": "牛肉",
+    "pinyin": "niúròu",
+    "vi": "thịt bò"
+  },
+  {
+    "file": "tu-vung/thuc-pham/thit/02-猪肉.webp",
+    "zh": "猪肉",
+    "pinyin": "zhūròu",
+    "vi": "thịt heo"
+  },
+  {
+    "file": "tu-vung/thuc-pham/thit/03-烤肉.webp",
+    "zh": "烤肉",
+    "pinyin": "kǎoròu",
+    "vi": "thịt nướng"
+  },
+  {
+    "file": "tu-vung/thuc-pham/thit/04-香肠.webp",
+    "zh": "香肠",
+    "pinyin": "xiāngcháng",
+    "vi": "xúc xích"
+  },
+  {
+    "file": "tu-vung/thuc-pham/thit/05-熏肉.webp",
+    "zh": "熏肉",
+    "pinyin": "xūnròu",
+    "vi": "thịt xông khói"
+  },
+  {
+    "file": "tu-vung/thuc-pham/thit/06-羔羊肉.webp",
+    "zh": "羔羊肉",
+    "pinyin": "gāoyángròu",
+    "vi": "thịt cừu non"
+  },
+  {
+    "file": "tu-vung/thuc-pham/thit/07-生肉.webp",
+    "zh": "生肉",
+    "pinyin": "shēngròu",
+    "vi": "thịt sống"
+  },
+  {
+    "file": "tu-vung/thuc-pham/thit/08-吊肉钩.webp",
+    "zh": "吊肉钩",
+    "pinyin": "diàoròugōu",
+    "vi": "móc treo thịt"
+  },
+  {
+    "file": "tu-vung/thuc-pham/thit/09-辣香肠.webp",
+    "zh": "辣香肠",
+    "pinyin": "làxiāngcháng",
+    "vi": "xúc xích cay"
+  },
+  {
+    "file": "tu-vung/thuc-pham/thit/10-小牛肉.webp",
+    "zh": "小牛肉",
+    "pinyin": "xiǎoniúròu",
+    "vi": "thịt bê"
+  }
+]

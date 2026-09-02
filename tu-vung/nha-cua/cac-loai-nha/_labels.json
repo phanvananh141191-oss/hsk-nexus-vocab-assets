@@ -1,0 +1,62 @@
+[
+  {
+    "file": "tu-vung/nha-cua/cac-loai-nha/01-公寓.webp",
+    "zh": "公寓",
+    "pinyin": "gōngyù",
+    "vi": "căn hộ"
+  },
+  {
+    "file": "tu-vung/nha-cua/cac-loai-nha/02-公寓楼.webp",
+    "zh": "公寓楼",
+    "pinyin": "gōngyùlóu",
+    "vi": "chung cư"
+  },
+  {
+    "file": "tu-vung/nha-cua/cac-loai-nha/03-农舍.webp",
+    "zh": "农舍",
+    "pinyin": "nóngshè",
+    "vi": "nhà nông"
+  },
+  {
+    "file": "tu-vung/nha-cua/cac-loai-nha/04-别墅.webp",
+    "zh": "别墅",
+    "pinyin": "biéshù",
+    "vi": "biệt thự"
+  },
+  {
+    "file": "tu-vung/nha-cua/cac-loai-nha/05-四合院.webp",
+    "zh": "四合院",
+    "pinyin": "sìhéyuàn",
+    "vi": "nhà tứ hợp viện"
+  },
+  {
+    "file": "tu-vung/nha-cua/cac-loai-nha/06-平房.webp",
+    "zh": "平房",
+    "pinyin": "píngfáng",
+    "vi": "nhà cấp bốn"
+  },
+  {
+    "file": "tu-vung/nha-cua/cac-loai-nha/07-庄园.webp",
+    "zh": "庄园",
+    "pinyin": "zhuāngyuán",
+    "vi": "trang viên"
+  },
+  {
+    "file": "tu-vung/nha-cua/cac-loai-nha/08-独栋住宅.webp",
+    "zh": "独栋住宅",
+    "pinyin": "dúdòngzhùzhái",
+    "vi": "nhà độc lập"
+  },
+  {
+    "file": "tu-vung/nha-cua/cac-loai-nha/09-住房.webp",
+    "zh": "住房",
+    "pinyin": "zhùfáng",
+    "vi": "nhà ở"
+  },
+  {
+    "file": "tu-vung/nha-cua/cac-loai-nha/10-楼房.webp",
+    "zh": "楼房",
+    "pinyin": "lóufáng",
+    "vi": "nhà lầu"
+  }
+]

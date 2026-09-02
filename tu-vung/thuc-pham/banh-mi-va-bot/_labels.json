@@ -1,0 +1,62 @@
+[
+  {
+    "file": "tu-vung/thuc-pham/banh-mi-va-bot/01-面包.webp",
+    "zh": "面包",
+    "pinyin": "miànbāo",
+    "vi": "bánh mì"
+  },
+  {
+    "file": "tu-vung/thuc-pham/banh-mi-va-bot/02-全麦面包.webp",
+    "zh": "全麦面包",
+    "pinyin": "quánmàimiànbāo",
+    "vi": "bánh mì nguyên cám"
+  },
+  {
+    "file": "tu-vung/thuc-pham/banh-mi-va-bot/03-包子.webp",
+    "zh": "包子",
+    "pinyin": "bāozi",
+    "vi": "bánh bao"
+  },
+  {
+    "file": "tu-vung/thuc-pham/banh-mi-va-bot/04-饺子.webp",
+    "zh": "饺子",
+    "pinyin": "jiǎozi",
+    "vi": "sủi cảo"
+  },
+  {
+    "file": "tu-vung/thuc-pham/banh-mi-va-bot/05-馒头.webp",
+    "zh": "馒头",
+    "pinyin": "mántou",
+    "vi": "bánh bao không nhân"
+  },
+  {
+    "file": "tu-vung/thuc-pham/banh-mi-va-bot/06-面粉.webp",
+    "zh": "面粉",
+    "pinyin": "miànfěn",
+    "vi": "bột mì"
+  },
+  {
+    "file": "tu-vung/thuc-pham/banh-mi-va-bot/07-百吉饼.webp",
+    "zh": "百吉饼",
+    "pinyin": "bǎijíbǐng",
+    "vi": "bánh bagel"
+  },
+  {
+    "file": "tu-vung/thuc-pham/banh-mi-va-bot/08-面条.webp",
+    "zh": "面条",
+    "pinyin": "miàntiáo",
+    "vi": "mì"
+  },
+  {
+    "file": "tu-vung/thuc-pham/banh-mi-va-bot/09-粽子.webp",
+    "zh": "粽子",
+    "pinyin": "zòngzi",
+    "vi": "bánh ú"
+  },
+  {
+    "file": "tu-vung/thuc-pham/banh-mi-va-bot/10-皮塔饼.webp",
+    "zh": "皮塔饼",
+    "pinyin": "pítǎbǐng",
+    "vi": "bánh pita"
+  }
+]

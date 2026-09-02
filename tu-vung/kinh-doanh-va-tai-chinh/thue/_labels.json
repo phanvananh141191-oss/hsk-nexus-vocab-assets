@@ -1,0 +1,62 @@
+[
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/thue/01-会计.webp",
+    "zh": "会计",
+    "pinyin": "kuàijì",
+    "vi": "kế toán"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/thue/02-关税.webp",
+    "zh": "关税",
+    "pinyin": "guānshuì",
+    "vi": "thuế quan"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/thue/03-纳税.webp",
+    "zh": "纳税",
+    "pinyin": "nàshuì",
+    "vi": "nộp thuế"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/thue/04-纳税人.webp",
+    "zh": "纳税人",
+    "pinyin": "nàshuìrén",
+    "vi": "người nộp thuế"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/thue/05-税务.webp",
+    "zh": "税务",
+    "pinyin": "shuìwù",
+    "vi": "vụ thuế"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/thue/06-申报.webp",
+    "zh": "申报",
+    "pinyin": "shēnbào",
+    "vi": "kê khai"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/thue/07-账户结单.webp",
+    "zh": "账户结单",
+    "pinyin": "zhànghùjiédān",
+    "vi": "sao kê tài khoản"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/thue/08-交费.webp",
+    "zh": "交费",
+    "pinyin": "jiāofèi",
+    "vi": "nộp phí"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/thue/09-税收.webp",
+    "zh": "税收",
+    "pinyin": "shuìshōu",
+    "vi": "thuế khóa"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/thue/10-成本.webp",
+    "zh": "成本",
+    "pinyin": "chéngběn",
+    "vi": "chi phí"
+  }
+]

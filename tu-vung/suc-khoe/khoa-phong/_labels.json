@@ -1,0 +1,62 @@
+[
+  {
+    "file": "tu-vung/suc-khoe/khoa-phong/01-专科医生.webp",
+    "zh": "专科医生",
+    "pinyin": "zhuānkē yīshēng",
+    "vi": "bác sĩ chuyên khoa"
+  },
+  {
+    "file": "tu-vung/suc-khoe/khoa-phong/02-产科.webp",
+    "zh": "产科",
+    "pinyin": "chǎnkē",
+    "vi": "khoa sản"
+  },
+  {
+    "file": "tu-vung/suc-khoe/khoa-phong/03-儿科.webp",
+    "zh": "儿科",
+    "pinyin": "érkē",
+    "vi": "khoa nhi"
+  },
+  {
+    "file": "tu-vung/suc-khoe/khoa-phong/04-内科.webp",
+    "zh": "内科",
+    "pinyin": "nèikē",
+    "vi": "khoa nội"
+  },
+  {
+    "file": "tu-vung/suc-khoe/khoa-phong/05-外科.webp",
+    "zh": "外科",
+    "pinyin": "wàikē",
+    "vi": "khoa ngoại"
+  },
+  {
+    "file": "tu-vung/suc-khoe/khoa-phong/06-床位.webp",
+    "zh": "床位",
+    "pinyin": "chuángwèi",
+    "vi": "giường bệnh"
+  },
+  {
+    "file": "tu-vung/suc-khoe/khoa-phong/07-放射科.webp",
+    "zh": "放射科",
+    "pinyin": "fàngshèkē",
+    "vi": "khoa xạ hình"
+  },
+  {
+    "file": "tu-vung/suc-khoe/khoa-phong/08-理疗科.webp",
+    "zh": "理疗科",
+    "pinyin": "lǐliáo kē",
+    "vi": "khoa vật lý trị liệu"
+  },
+  {
+    "file": "tu-vung/suc-khoe/khoa-phong/09-眼科.webp",
+    "zh": "眼科",
+    "pinyin": "yǎnkē",
+    "vi": "khoa mắt"
+  },
+  {
+    "file": "tu-vung/suc-khoe/khoa-phong/10-科室.webp",
+    "zh": "科室",
+    "pinyin": "kēshì",
+    "vi": "khoa phòng"
+  }
+]

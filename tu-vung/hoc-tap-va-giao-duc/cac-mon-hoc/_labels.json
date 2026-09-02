@@ -1,0 +1,62 @@
+[
+  {
+    "file": "tu-vung/hoc-tap-va-giao-duc/cac-mon-hoc/01-几何.webp",
+    "zh": "几何",
+    "pinyin": "jǐhé",
+    "vi": "hình học"
+  },
+  {
+    "file": "tu-vung/hoc-tap-va-giao-duc/cac-mon-hoc/02-化学.webp",
+    "zh": "化学",
+    "pinyin": "huàxué",
+    "vi": "hóa học"
+  },
+  {
+    "file": "tu-vung/hoc-tap-va-giao-duc/cac-mon-hoc/03-医学.webp",
+    "zh": "医学",
+    "pinyin": "yīxué",
+    "vi": "y học"
+  },
+  {
+    "file": "tu-vung/hoc-tap-va-giao-duc/cac-mon-hoc/04-历史.webp",
+    "zh": "历史",
+    "pinyin": "lìshǐ",
+    "vi": "lịch sử"
+  },
+  {
+    "file": "tu-vung/hoc-tap-va-giao-duc/cac-mon-hoc/05-地理.webp",
+    "zh": "地理",
+    "pinyin": "dìlǐ",
+    "vi": "địa lý"
+  },
+  {
+    "file": "tu-vung/hoc-tap-va-giao-duc/cac-mon-hoc/06-数学.webp",
+    "zh": "数学",
+    "pinyin": "shùxué",
+    "vi": "toán học"
+  },
+  {
+    "file": "tu-vung/hoc-tap-va-giao-duc/cac-mon-hoc/07-物理.webp",
+    "zh": "物理",
+    "pinyin": "wùlǐ",
+    "vi": "vật lý"
+  },
+  {
+    "file": "tu-vung/hoc-tap-va-giao-duc/cac-mon-hoc/08-生物学.webp",
+    "zh": "生物学",
+    "pinyin": "shēngwùxué",
+    "vi": "sinh học"
+  },
+  {
+    "file": "tu-vung/hoc-tap-va-giao-duc/cac-mon-hoc/09-艺术.webp",
+    "zh": "艺术",
+    "pinyin": "yìshù",
+    "vi": "nghệ thuật"
+  },
+  {
+    "file": "tu-vung/hoc-tap-va-giao-duc/cac-mon-hoc/10-音乐.webp",
+    "zh": "音乐",
+    "pinyin": "yīnyuè",
+    "vi": "âm nhạc"
+  }
+]

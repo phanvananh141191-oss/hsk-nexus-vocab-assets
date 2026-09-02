@@ -1,0 +1,62 @@
+[
+  {
+    "file": "tu-vung/thuc-pham/sua-va-san-pham-tu-sua/01-牛奶.webp",
+    "zh": "牛奶",
+    "pinyin": "niúnǎi",
+    "vi": "sữa bò"
+  },
+  {
+    "file": "tu-vung/thuc-pham/sua-va-san-pham-tu-sua/02-酸奶.webp",
+    "zh": "酸奶",
+    "pinyin": "suānnǎi",
+    "vi": "sữa chua"
+  },
+  {
+    "file": "tu-vung/thuc-pham/sua-va-san-pham-tu-sua/03-黄油.webp",
+    "zh": "黄油",
+    "pinyin": "huángyóu",
+    "vi": "bơ"
+  },
+  {
+    "file": "tu-vung/thuc-pham/sua-va-san-pham-tu-sua/04-冰激凌.webp",
+    "zh": "冰激凌",
+    "pinyin": "bīngjīlíng",
+    "vi": "kem"
+  },
+  {
+    "file": "tu-vung/thuc-pham/sua-va-san-pham-tu-sua/05-奶油.webp",
+    "zh": "奶油",
+    "pinyin": "nǎiyóu",
+    "vi": "kem sữa"
+  },
+  {
+    "file": "tu-vung/thuc-pham/sua-va-san-pham-tu-sua/06-奶粉.webp",
+    "zh": "奶粉",
+    "pinyin": "nǎifěn",
+    "vi": "sữa bột"
+  },
+  {
+    "file": "tu-vung/thuc-pham/sua-va-san-pham-tu-sua/07-豆浆.webp",
+    "zh": "豆浆",
+    "pinyin": "dòujiāng",
+    "vi": "sữa đậu nành"
+  },
+  {
+    "file": "tu-vung/thuc-pham/sua-va-san-pham-tu-sua/08-炼乳.webp",
+    "zh": "炼乳",
+    "pinyin": "liànrǔ",
+    "vi": "sữa đặc"
+  },
+  {
+    "file": "tu-vung/thuc-pham/sua-va-san-pham-tu-sua/09-山羊奶.webp",
+    "zh": "山羊奶",
+    "pinyin": "shānyángnǎi",
+    "vi": "sữa dê"
+  },
+  {
+    "file": "tu-vung/thuc-pham/sua-va-san-pham-tu-sua/10-人造黄油.webp",
+    "zh": "人造黄油",
+    "pinyin": "rénzàohuángyóu",
+    "vi": "bơ thực vật"
+  }
+]

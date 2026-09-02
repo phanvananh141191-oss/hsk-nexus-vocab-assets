@@ -1,0 +1,26 @@
+[
+  {
+    "file": "tu-vung/nha-cua/nha-ve-sinh/01-卫生纸.webp",
+    "zh": "卫生纸",
+    "pinyin": "wèishēngzhǐ",
+    "vi": "giấy vệ sinh"
+  },
+  {
+    "file": "tu-vung/nha-cua/nha-ve-sinh/02-厕所.webp",
+    "zh": "厕所",
+    "pinyin": "cèsuǒ",
+    "vi": "nhà vệ sinh"
+  },
+  {
+    "file": "tu-vung/nha-cua/nha-ve-sinh/03-洗手间.webp",
+    "zh": "洗手间",
+    "pinyin": "xǐshǒujiān",
+    "vi": "phòng rửa tay"
+  },
+  {
+    "file": "tu-vung/nha-cua/nha-ve-sinh/04-马桶.webp",
+    "zh": "马桶",
+    "pinyin": "mǎtǒng",
+    "vi": "bồn cầu"
+  }
+]

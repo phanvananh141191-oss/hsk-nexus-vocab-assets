@@ -1,0 +1,62 @@
+[
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/tiet-kiem/01-存折.webp",
+    "zh": "存折",
+    "pinyin": "cúnzhé",
+    "vi": "sổ tiết kiệm"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/tiet-kiem/02-存款.webp",
+    "zh": "存款",
+    "pinyin": "cúnkuǎn",
+    "vi": "tiền gửi"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/tiet-kiem/03-捐款.webp",
+    "zh": "捐款",
+    "pinyin": "juānkuǎn",
+    "vi": "tiền quyên góp"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/tiet-kiem/04-攒.webp",
+    "zh": "攒",
+    "pinyin": "zǎn",
+    "vi": "tích cóp"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/tiet-kiem/05-积蓄.webp",
+    "zh": "积蓄",
+    "pinyin": "jīxù",
+    "vi": "tiền dành dụm"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/tiet-kiem/06-储备.webp",
+    "zh": "储备",
+    "pinyin": "chǔbèi",
+    "vi": "dự trữ"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/tiet-kiem/07-存放.webp",
+    "zh": "存放",
+    "pinyin": "cúnfàng",
+    "vi": "gửi giữ"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/tiet-kiem/08-公积金.webp",
+    "zh": "公积金",
+    "pinyin": "gōngjījīn",
+    "vi": "quỹ tích lũy"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/tiet-kiem/09-积累.webp",
+    "zh": "积累",
+    "pinyin": "jīlěi",
+    "vi": "tích lũy"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/tiet-kiem/10-资助.webp",
+    "zh": "资助",
+    "pinyin": "zīzhù",
+    "vi": "tài trợ"
+  }
+]

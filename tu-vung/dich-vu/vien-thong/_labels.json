@@ -1,0 +1,32 @@
+[
+  {
+    "file": "tu-vung/dich-vu/vien-thong/01-电信.webp",
+    "zh": "电信",
+    "pinyin": "diànxìn",
+    "vi": "viễn thông"
+  },
+  {
+    "file": "tu-vung/dich-vu/vien-thong/02-电报.webp",
+    "zh": "电报",
+    "pinyin": "diànbào",
+    "vi": "điện báo"
+  },
+  {
+    "file": "tu-vung/dich-vu/vien-thong/03-电讯.webp",
+    "zh": "电讯",
+    "pinyin": "diànxùn",
+    "vi": "điện tín"
+  },
+  {
+    "file": "tu-vung/dich-vu/vien-thong/04-签名.webp",
+    "zh": "签名",
+    "pinyin": "qiānmíng",
+    "vi": "chữ ký"
+  },
+  {
+    "file": "tu-vung/dich-vu/vien-thong/05-通讯.webp",
+    "zh": "通讯",
+    "pinyin": "tōngxùn",
+    "vi": "thông tin liên lạc"
+  }
+]

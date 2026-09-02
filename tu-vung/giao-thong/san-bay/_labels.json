@@ -1,0 +1,62 @@
+[
+  {
+    "file": "tu-vung/giao-thong/san-bay/01-信息屏.webp",
+    "zh": "信息屏",
+    "pinyin": "xìnxīpíng",
+    "vi": "màn hình thông tin"
+  },
+  {
+    "file": "tu-vung/giao-thong/san-bay/02-候机大厅.webp",
+    "zh": "候机大厅",
+    "pinyin": "hòujīdàtīng",
+    "vi": "sảnh chờ máy bay"
+  },
+  {
+    "file": "tu-vung/giao-thong/san-bay/03-停机坪.webp",
+    "zh": "停机坪",
+    "pinyin": "tíngjīpíng",
+    "vi": "sân đỗ máy bay"
+  },
+  {
+    "file": "tu-vung/giao-thong/san-bay/04-免税商店.webp",
+    "zh": "免税商店",
+    "pinyin": "miǎnshuìshāngdiàn",
+    "vi": "cửa hàng miễn thuế"
+  },
+  {
+    "file": "tu-vung/giao-thong/san-bay/05-出发大厅.webp",
+    "zh": "出发大厅",
+    "pinyin": "chūfādàtīng",
+    "vi": "sảnh đi"
+  },
+  {
+    "file": "tu-vung/giao-thong/san-bay/06-到达大厅.webp",
+    "zh": "到达大厅",
+    "pinyin": "dàodádàtīng",
+    "vi": "sảnh đến"
+  },
+  {
+    "file": "tu-vung/giao-thong/san-bay/07-安检人员.webp",
+    "zh": "安检人员",
+    "pinyin": "ānjiǎnrényuán",
+    "vi": "nhân viên an ninh"
+  },
+  {
+    "file": "tu-vung/giao-thong/san-bay/08-登机门.webp",
+    "zh": "登机门",
+    "pinyin": "dēngjīmén",
+    "vi": "cửa lên máy bay"
+  },
+  {
+    "file": "tu-vung/giao-thong/san-bay/09-空中乘务员.webp",
+    "zh": "空中乘务员",
+    "pinyin": "kōngzhōngchéngwùyuán",
+    "vi": "tiếp viên hàng không"
+  },
+  {
+    "file": "tu-vung/giao-thong/san-bay/10-行李推车.webp",
+    "zh": "行李推车",
+    "pinyin": "xínglǐtuīchē",
+    "vi": "xe đẩy hành lý sân bay"
+  }
+]

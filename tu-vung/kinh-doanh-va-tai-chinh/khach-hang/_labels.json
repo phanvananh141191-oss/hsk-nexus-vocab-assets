@@ -1,0 +1,38 @@
+[
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/khach-hang/01-客流.webp",
+    "zh": "客流",
+    "pinyin": "kèliú",
+    "vi": "lượng khách"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/khach-hang/02-招揽.webp",
+    "zh": "招揽",
+    "pinyin": "zhāolǎn",
+    "vi": "mời chào khách"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/khach-hang/03-消费者.webp",
+    "zh": "消费者",
+    "pinyin": "xiāofèizhě",
+    "vi": "người tiêu dùng"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/khach-hang/04-用户.webp",
+    "zh": "用户",
+    "pinyin": "yònghù",
+    "vi": "người dùng"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/khach-hang/05-贵宾.webp",
+    "zh": "贵宾",
+    "pinyin": "guìbīn",
+    "vi": "khách quý"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/khach-hang/06-顾客.webp",
+    "zh": "顾客",
+    "pinyin": "gùkè",
+    "vi": "khách hàng"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "file": "tu-vung/suc-khoe/phong-kham/01-中医.webp",
+    "zh": "中医",
+    "pinyin": "zhōngyī",
+    "vi": "y học cổ truyền"
+  },
+  {
+    "file": "tu-vung/suc-khoe/phong-kham/02-就诊.webp",
+    "zh": "就诊",
+    "pinyin": "jiùzhěn",
+    "vi": "đi khám"
+  },
+  {
+    "file": "tu-vung/suc-khoe/phong-kham/03-挂号.webp",
+    "zh": "挂号",
+    "pinyin": "guàhào",
+    "vi": "đăng ký khám"
+  },
+  {
+    "file": "tu-vung/suc-khoe/phong-kham/04-看病.webp",
+    "zh": "看病",
+    "pinyin": "kànbìng",
+    "vi": "khám bệnh"
+  },
+  {
+    "file": "tu-vung/suc-khoe/phong-kham/05-门诊.webp",
+    "zh": "门诊",
+    "pinyin": "ménzhěn",
+    "vi": "ngoại trú"
+  },
+  {
+    "file": "tu-vung/suc-khoe/phong-kham/06-预约.webp",
+    "zh": "预约",
+    "pinyin": "yùyuē",
+    "vi": "đặt lịch"
+  }
+]

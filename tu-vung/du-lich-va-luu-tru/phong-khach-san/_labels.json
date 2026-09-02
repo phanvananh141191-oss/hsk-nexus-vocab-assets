@@ -1,0 +1,50 @@
+[
+  {
+    "file": "tu-vung/du-lich-va-luu-tru/phong-khach-san/01-专用浴室.webp",
+    "zh": "专用浴室",
+    "pinyin": "zhuānyòngyùshì",
+    "vi": "phòng tắm riêng"
+  },
+  {
+    "file": "tu-vung/du-lich-va-luu-tru/phong-khach-san/02-单人间.webp",
+    "zh": "单人间",
+    "pinyin": "dānrénjiān",
+    "vi": "phòng đơn"
+  },
+  {
+    "file": "tu-vung/du-lich-va-luu-tru/phong-khach-san/03-双人间.webp",
+    "zh": "双人间",
+    "pinyin": "shuāngrénjiān",
+    "vi": "phòng đôi"
+  },
+  {
+    "file": "tu-vung/du-lich-va-luu-tru/phong-khach-san/04-客房.webp",
+    "zh": "客房",
+    "pinyin": "kèfáng",
+    "vi": "phòng khách sạn"
+  },
+  {
+    "file": "tu-vung/du-lich-va-luu-tru/phong-khach-san/05-客房清洁服务.webp",
+    "zh": "客房清洁服务",
+    "pinyin": "kèfángqīngjiéfúwù",
+    "vi": "dịch vụ dọn phòng"
+  },
+  {
+    "file": "tu-vung/du-lich-va-luu-tru/phong-khach-san/06-早餐盘.webp",
+    "zh": "早餐盘",
+    "pinyin": "zǎocānpán",
+    "vi": "khay bữa sáng"
+  },
+  {
+    "file": "tu-vung/du-lich-va-luu-tru/phong-khach-san/07-标准间.webp",
+    "zh": "标准间",
+    "pinyin": "biāozhǔnjiān",
+    "vi": "phòng tiêu chuẩn"
+  },
+  {
+    "file": "tu-vung/du-lich-va-luu-tru/phong-khach-san/08-洗衣服务.webp",
+    "zh": "洗衣服务",
+    "pinyin": "xǐyīfúwù",
+    "vi": "dịch vụ giặt ủi"
+  }
+]

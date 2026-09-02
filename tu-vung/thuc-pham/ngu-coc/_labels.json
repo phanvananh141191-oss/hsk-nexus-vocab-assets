@@ -1,0 +1,62 @@
+[
+  {
+    "file": "tu-vung/thuc-pham/ngu-coc/01-大米.webp",
+    "zh": "大米",
+    "pinyin": "dàmǐ",
+    "vi": "gạo"
+  },
+  {
+    "file": "tu-vung/thuc-pham/ngu-coc/02-米饭.webp",
+    "zh": "米饭",
+    "pinyin": "mǐfàn",
+    "vi": "cơm"
+  },
+  {
+    "file": "tu-vung/thuc-pham/ngu-coc/03-小麦.webp",
+    "zh": "小麦",
+    "pinyin": "xiǎomài",
+    "vi": "lúa mì"
+  },
+  {
+    "file": "tu-vung/thuc-pham/ngu-coc/04-玉米.webp",
+    "zh": "玉米",
+    "pinyin": "yùmǐ",
+    "vi": "ngô"
+  },
+  {
+    "file": "tu-vung/thuc-pham/ngu-coc/05-燕麦.webp",
+    "zh": "燕麦",
+    "pinyin": "yànmài",
+    "vi": "yến mạch"
+  },
+  {
+    "file": "tu-vung/thuc-pham/ngu-coc/06-小米.webp",
+    "zh": "小米",
+    "pinyin": "xiǎomǐ",
+    "vi": "kê"
+  },
+  {
+    "file": "tu-vung/thuc-pham/ngu-coc/07-糙米.webp",
+    "zh": "糙米",
+    "pinyin": "cāomǐ",
+    "vi": "gạo lứt"
+  },
+  {
+    "file": "tu-vung/thuc-pham/ngu-coc/08-早餐麦片.webp",
+    "zh": "早餐麦片",
+    "pinyin": "zǎocānmàipiàn",
+    "vi": "ngũ cốc ăn sáng"
+  },
+  {
+    "file": "tu-vung/thuc-pham/ngu-coc/09-粥.webp",
+    "zh": "粥",
+    "pinyin": "zhōu",
+    "vi": "cháo"
+  },
+  {
+    "file": "tu-vung/thuc-pham/ngu-coc/10-大麦.webp",
+    "zh": "大麦",
+    "pinyin": "dàmài",
+    "vi": "lúa mạch"
+  }
+]

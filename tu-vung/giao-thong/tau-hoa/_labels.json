@@ -1,0 +1,62 @@
+[
+  {
+    "file": "tu-vung/giao-thong/tau-hoa/01-列车.webp",
+    "zh": "列车",
+    "pinyin": "lièchē",
+    "vi": "đoàn tàu"
+  },
+  {
+    "file": "tu-vung/giao-thong/tau-hoa/02-列车时刻表.webp",
+    "zh": "列车时刻表",
+    "pinyin": "lièchēshíkèbiǎo",
+    "vi": "lịch trình tàu"
+  },
+  {
+    "file": "tu-vung/giao-thong/tau-hoa/03-单轨列车.webp",
+    "zh": "单轨列车",
+    "pinyin": "dānguǐlièchē",
+    "vi": "tàu một ray"
+  },
+  {
+    "file": "tu-vung/giao-thong/tau-hoa/04-卧铺.webp",
+    "zh": "卧铺",
+    "pinyin": "wòpù",
+    "vi": "giường nằm"
+  },
+  {
+    "file": "tu-vung/giao-thong/tau-hoa/05-售票处.webp",
+    "zh": "售票处",
+    "pinyin": "shòupiàochù",
+    "vi": "quầy bán vé"
+  },
+  {
+    "file": "tu-vung/giao-thong/tau-hoa/06-火车站.webp",
+    "zh": "火车站",
+    "pinyin": "huǒchēzhàn",
+    "vi": "ga tàu hỏa"
+  },
+  {
+    "file": "tu-vung/giao-thong/tau-hoa/07-蒸汽机车.webp",
+    "zh": "蒸汽机车",
+    "pinyin": "zhēngqìjīchē",
+    "vi": "đầu máy hơi nước"
+  },
+  {
+    "file": "tu-vung/giao-thong/tau-hoa/08-高速列车.webp",
+    "zh": "高速列车",
+    "pinyin": "gāosùlièchē",
+    "vi": "tàu cao tốc"
+  },
+  {
+    "file": "tu-vung/giao-thong/tau-hoa/09-铁轨.webp",
+    "zh": "铁轨",
+    "pinyin": "tiěguǐ",
+    "vi": "đường ray"
+  },
+  {
+    "file": "tu-vung/giao-thong/tau-hoa/10-车厢.webp",
+    "zh": "车厢",
+    "pinyin": "chēxiāng",
+    "vi": "toa tàu"
+  }
+]

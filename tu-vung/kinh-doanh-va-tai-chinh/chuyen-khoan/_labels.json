@@ -1,0 +1,20 @@
+[
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/chuyen-khoan/01-汇.webp",
+    "zh": "汇",
+    "pinyin": "huì",
+    "vi": "chuyển"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/chuyen-khoan/02-汇款.webp",
+    "zh": "汇款",
+    "pinyin": "huìkuǎn",
+    "vi": "chuyển tiền"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/chuyen-khoan/03-转移支付.webp",
+    "zh": "转移支付",
+    "pinyin": "zhuǎnyízhīfù",
+    "vi": "chuyển khoản thanh toán"
+  }
+]

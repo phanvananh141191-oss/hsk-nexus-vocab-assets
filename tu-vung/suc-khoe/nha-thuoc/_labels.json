@@ -1,0 +1,38 @@
+[
+  {
+    "file": "tu-vung/suc-khoe/nha-thuoc/01-医药.webp",
+    "zh": "医药",
+    "pinyin": "yīyào",
+    "vi": "thuốc men"
+  },
+  {
+    "file": "tu-vung/suc-khoe/nha-thuoc/02-药方.webp",
+    "zh": "药方",
+    "pinyin": "yàofāng",
+    "vi": "đơn thuốc"
+  },
+  {
+    "file": "tu-vung/suc-khoe/nha-thuoc/03-药材.webp",
+    "zh": "药材",
+    "pinyin": "yàocái",
+    "vi": "vị thuốc"
+  },
+  {
+    "file": "tu-vung/suc-khoe/nha-thuoc/04-药水.webp",
+    "zh": "药水",
+    "pinyin": "yàoshuǐ",
+    "vi": "thuốc nước"
+  },
+  {
+    "file": "tu-vung/suc-khoe/nha-thuoc/05-药品.webp",
+    "zh": "药品",
+    "pinyin": "yàopǐn",
+    "vi": "dược phẩm"
+  },
+  {
+    "file": "tu-vung/suc-khoe/nha-thuoc/06-药物.webp",
+    "zh": "药物",
+    "pinyin": "yàowù",
+    "vi": "thuốc"
+  }
+]

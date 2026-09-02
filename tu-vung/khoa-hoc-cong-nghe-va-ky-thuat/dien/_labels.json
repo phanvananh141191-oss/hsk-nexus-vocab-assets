@@ -1,0 +1,62 @@
+[
+  {
+    "file": "tu-vung/khoa-hoc-cong-nghe-va-ky-thuat/dien/01-发电.webp",
+    "zh": "发电",
+    "pinyin": "fādiàn",
+    "vi": "phát điện"
+  },
+  {
+    "file": "tu-vung/khoa-hoc-cong-nghe-va-ky-thuat/dien/02-电子元件.webp",
+    "zh": "电子元件",
+    "pinyin": "diànziyuánjiàn",
+    "vi": "linh kiện điện tử"
+  },
+  {
+    "file": "tu-vung/khoa-hoc-cong-nghe-va-ky-thuat/dien/03-电源.webp",
+    "zh": "电源",
+    "pinyin": "diànyuán",
+    "vi": "nguồn điện"
+  },
+  {
+    "file": "tu-vung/khoa-hoc-cong-nghe-va-ky-thuat/dien/04-电线.webp",
+    "zh": "电线",
+    "pinyin": "diànxiàn",
+    "vi": "dây điện"
+  },
+  {
+    "file": "tu-vung/khoa-hoc-cong-nghe-va-ky-thuat/dien/05-电路板.webp",
+    "zh": "电路板",
+    "pinyin": "diànlùbǎn",
+    "vi": "bo mạch"
+  },
+  {
+    "file": "tu-vung/khoa-hoc-cong-nghe-va-ky-thuat/dien/06-电阻.webp",
+    "zh": "电阻",
+    "pinyin": "diànzǔ",
+    "vi": "điện trở"
+  },
+  {
+    "file": "tu-vung/khoa-hoc-cong-nghe-va-ky-thuat/dien/07-绝缘.webp",
+    "zh": "绝缘",
+    "pinyin": "juéyuán",
+    "vi": "cách điện"
+  },
+  {
+    "file": "tu-vung/khoa-hoc-cong-nghe-va-ky-thuat/dien/08-连接线.webp",
+    "zh": "连接线",
+    "pinyin": "liánjiēxiàn",
+    "vi": "dây nối"
+  },
+  {
+    "file": "tu-vung/khoa-hoc-cong-nghe-va-ky-thuat/dien/09-电容.webp",
+    "zh": "电容",
+    "pinyin": "diànróng",
+    "vi": "tụ điện"
+  },
+  {
+    "file": "tu-vung/khoa-hoc-cong-nghe-va-ky-thuat/dien/10-电网.webp",
+    "zh": "电网",
+    "pinyin": "diànwǎng",
+    "vi": "lưới điện"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "file": "tu-vung/hoc-tap-va-giao-duc/dai-hoc/01-博士.webp",
+    "zh": "博士",
+    "pinyin": "bóshì",
+    "vi": "tiến sĩ"
+  },
+  {
+    "file": "tu-vung/hoc-tap-va-giao-duc/dai-hoc/02-大学.webp",
+    "zh": "大学",
+    "pinyin": "dàxué",
+    "vi": "đại học"
+  },
+  {
+    "file": "tu-vung/hoc-tap-va-giao-duc/dai-hoc/03-大学生.webp",
+    "zh": "大学生",
+    "pinyin": "dàxuéshēng",
+    "vi": "sinh viên"
+  },
+  {
+    "file": "tu-vung/hoc-tap-va-giao-duc/dai-hoc/04-学院.webp",
+    "zh": "学院",
+    "pinyin": "xuéyuàn",
+    "vi": "học viện"
+  },
+  {
+    "file": "tu-vung/hoc-tap-va-giao-duc/dai-hoc/05-教授.webp",
+    "zh": "教授",
+    "pinyin": "jiàoshòu",
+    "vi": "giáo sư"
+  },
+  {
+    "file": "tu-vung/hoc-tap-va-giao-duc/dai-hoc/06-毕业生.webp",
+    "zh": "毕业生",
+    "pinyin": "bìyèshēng",
+    "vi": "sinh viên tốt nghiệp"
+  },
+  {
+    "file": "tu-vung/hoc-tap-va-giao-duc/dai-hoc/07-留学生.webp",
+    "zh": "留学生",
+    "pinyin": "liúxuéshēng",
+    "vi": "du học sinh"
+  },
+  {
+    "file": "tu-vung/hoc-tap-va-giao-duc/dai-hoc/08-研究生.webp",
+    "zh": "研究生",
+    "pinyin": "yánjiūshēng",
+    "vi": "học viên cao học"
+  },
+  {
+    "file": "tu-vung/hoc-tap-va-giao-duc/dai-hoc/09-讲座.webp",
+    "zh": "讲座",
+    "pinyin": "jiǎngzuò",
+    "vi": "bài giảng"
+  },
+  {
+    "file": "tu-vung/hoc-tap-va-giao-duc/dai-hoc/10-运动场.webp",
+    "zh": "运动场",
+    "pinyin": "yùndòngchǎng",
+    "vi": "sân vận động"
+  }
+]

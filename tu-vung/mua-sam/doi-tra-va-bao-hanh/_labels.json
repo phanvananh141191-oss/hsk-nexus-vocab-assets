@@ -1,0 +1,62 @@
+[
+  {
+    "file": "tu-vung/mua-sam/doi-tra-va-bao-hanh/01-保修.webp",
+    "zh": "保修",
+    "pinyin": "bǎoxiū",
+    "vi": "bảo hành"
+  },
+  {
+    "file": "tu-vung/mua-sam/doi-tra-va-bao-hanh/02-原装.webp",
+    "zh": "原装",
+    "pinyin": "yuánzhuāng",
+    "vi": "hàng chính hãng"
+  },
+  {
+    "file": "tu-vung/mua-sam/doi-tra-va-bao-hanh/03-归还.webp",
+    "zh": "归还",
+    "pinyin": "guīhuán",
+    "vi": "trả lại"
+  },
+  {
+    "file": "tu-vung/mua-sam/doi-tra-va-bao-hanh/04-正版.webp",
+    "zh": "正版",
+    "pinyin": "zhèngbǎn",
+    "vi": "bản chính hãng"
+  },
+  {
+    "file": "tu-vung/mua-sam/doi-tra-va-bao-hanh/05-试用.webp",
+    "zh": "试用",
+    "pinyin": "shìyòng",
+    "vi": "dùng thử"
+  },
+  {
+    "file": "tu-vung/mua-sam/doi-tra-va-bao-hanh/06-退票.webp",
+    "zh": "退票",
+    "pinyin": "tuìpiào",
+    "vi": "trả vé"
+  },
+  {
+    "file": "tu-vung/mua-sam/doi-tra-va-bao-hanh/07-更换.webp",
+    "zh": "更换",
+    "pinyin": "gēnghuàn",
+    "vi": "đổi hàng"
+  },
+  {
+    "file": "tu-vung/mua-sam/doi-tra-va-bao-hanh/08-索赔.webp",
+    "zh": "索赔",
+    "pinyin": "suǒpéi",
+    "vi": "đòi bồi thường"
+  },
+  {
+    "file": "tu-vung/mua-sam/doi-tra-va-bao-hanh/09-仿制.webp",
+    "zh": "仿制",
+    "pinyin": "fǎngzhì",
+    "vi": "hàng nhái"
+  },
+  {
+    "file": "tu-vung/mua-sam/doi-tra-va-bao-hanh/10-劣质.webp",
+    "zh": "劣质",
+    "pinyin": "lièzhì",
+    "vi": "hàng kém chất lượng"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "file": "tu-vung/du-lich-va-luu-tru/ho-chieu-va-visa/01-入境检查.webp",
+    "zh": "入境检查",
+    "pinyin": "rùjìngjiǎnchá",
+    "vi": "kiểm tra nhập cảnh"
+  },
+  {
+    "file": "tu-vung/du-lich-va-luu-tru/ho-chieu-va-visa/02-护照.webp",
+    "zh": "护照",
+    "pinyin": "hùzhào",
+    "vi": "hộ chiếu"
+  },
+  {
+    "file": "tu-vung/du-lich-va-luu-tru/ho-chieu-va-visa/03-护照检查处.webp",
+    "zh": "护照检查处",
+    "pinyin": "hùzhàojiǎncháchǔ",
+    "vi": "nơi kiểm tra hộ chiếu"
+  },
+  {
+    "file": "tu-vung/du-lich-va-luu-tru/ho-chieu-va-visa/04-海关官员.webp",
+    "zh": "海关官员",
+    "pinyin": "hǎiguānguānyuán",
+    "vi": "nhân viên hải quan"
+  },
+  {
+    "file": "tu-vung/du-lich-va-luu-tru/ho-chieu-va-visa/05-签证.webp",
+    "zh": "签证",
+    "pinyin": "qiānzhèng",
+    "vi": "thị thực"
+  },
+  {
+    "file": "tu-vung/du-lich-va-luu-tru/ho-chieu-va-visa/06-通行证.webp",
+    "zh": "通行证",
+    "pinyin": "tōngxíngzhèng",
+    "vi": "giấy thông hành"
+  },
+  {
+    "file": "tu-vung/du-lich-va-luu-tru/ho-chieu-va-visa/07-入境.webp",
+    "zh": "入境",
+    "pinyin": "rùjìng",
+    "vi": "nhập cảnh"
+  },
+  {
+    "file": "tu-vung/du-lich-va-luu-tru/ho-chieu-va-visa/08-出国.webp",
+    "zh": "出国",
+    "pinyin": "chūguó",
+    "vi": "xuất ngoại"
+  },
+  {
+    "file": "tu-vung/du-lich-va-luu-tru/ho-chieu-va-visa/09-出境.webp",
+    "zh": "出境",
+    "pinyin": "chūjìng",
+    "vi": "xuất cảnh"
+  },
+  {
+    "file": "tu-vung/du-lich-va-luu-tru/ho-chieu-va-visa/10-过境.webp",
+    "zh": "过境",
+    "pinyin": "guòjìng",
+    "vi": "quá cảnh"
+  }
+]

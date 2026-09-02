@@ -1,0 +1,62 @@
+[
+  {
+    "file": "tu-vung/con-nguoi/he-co-the/01-动脉.webp",
+    "zh": "动脉",
+    "pinyin": "dòngmài",
+    "vi": "động mạch"
+  },
+  {
+    "file": "tu-vung/con-nguoi/he-co-the/02-静脉.webp",
+    "zh": "静脉",
+    "pinyin": "jìngmài",
+    "vi": "tĩnh mạch"
+  },
+  {
+    "file": "tu-vung/con-nguoi/he-co-the/03-汗.webp",
+    "zh": "汗",
+    "pinyin": "hàn",
+    "vi": "mồ hôi"
+  },
+  {
+    "file": "tu-vung/con-nguoi/he-co-the/04-喉咙.webp",
+    "zh": "喉咙",
+    "pinyin": "hóulóng",
+    "vi": "họng"
+  },
+  {
+    "file": "tu-vung/con-nguoi/he-co-the/05-嗓子.webp",
+    "zh": "嗓子",
+    "pinyin": "sǎngzi",
+    "vi": "cổ họng"
+  },
+  {
+    "file": "tu-vung/con-nguoi/he-co-the/06-器官.webp",
+    "zh": "器官",
+    "pinyin": "qìguān",
+    "vi": "cơ quan nội tạng"
+  },
+  {
+    "file": "tu-vung/con-nguoi/he-co-the/07-呼吸系统.webp",
+    "zh": "呼吸系统",
+    "pinyin": "hūxīxìtǒng",
+    "vi": "hệ hô hấp"
+  },
+  {
+    "file": "tu-vung/con-nguoi/he-co-the/08-消化系统.webp",
+    "zh": "消化系统",
+    "pinyin": "xiāohuàxìtǒng",
+    "vi": "hệ tiêu hóa"
+  },
+  {
+    "file": "tu-vung/con-nguoi/he-co-the/09-神经系统.webp",
+    "zh": "神经系统",
+    "pinyin": "shénjīngxìtǒng",
+    "vi": "hệ thần kinh"
+  },
+  {
+    "file": "tu-vung/con-nguoi/he-co-the/10-吸.webp",
+    "zh": "吸",
+    "pinyin": "xī",
+    "vi": "hít vào"
+  }
+]

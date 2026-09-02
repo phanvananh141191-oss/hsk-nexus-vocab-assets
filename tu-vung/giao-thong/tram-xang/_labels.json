@@ -1,0 +1,32 @@
+[
+  {
+    "file": "tu-vung/giao-thong/tram-xang/01-加油.webp",
+    "zh": "加油",
+    "pinyin": "jiāyóu",
+    "vi": "đổ xăng"
+  },
+  {
+    "file": "tu-vung/giao-thong/tram-xang/02-加油处.webp",
+    "zh": "加油处",
+    "pinyin": "jiāyóuchù",
+    "vi": "chỗ đổ xăng"
+  },
+  {
+    "file": "tu-vung/giao-thong/tram-xang/03-汽油.webp",
+    "zh": "汽油",
+    "pinyin": "qìyóu",
+    "vi": "xăng"
+  },
+  {
+    "file": "tu-vung/giao-thong/tram-xang/04-汽油泵.webp",
+    "zh": "汽油泵",
+    "pinyin": "qìyóubèng",
+    "vi": "cột bơm xăng"
+  },
+  {
+    "file": "tu-vung/giao-thong/tram-xang/05-燃油箱.webp",
+    "zh": "燃油箱",
+    "pinyin": "rányóuxiāng",
+    "vi": "thùng nhiên liệu"
+  }
+]

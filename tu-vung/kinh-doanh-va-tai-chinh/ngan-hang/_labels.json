@@ -1,0 +1,62 @@
+[
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/ngan-hang/01-银行.webp",
+    "zh": "银行",
+    "pinyin": "yínháng",
+    "vi": "ngân hàng"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/ngan-hang/02-纸币.webp",
+    "zh": "纸币",
+    "pinyin": "zhǐbì",
+    "vi": "tiền giấy"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/ngan-hang/03-支票.webp",
+    "zh": "支票",
+    "pinyin": "zhīpiào",
+    "vi": "séc"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/ngan-hang/04-会计师.webp",
+    "zh": "会计师",
+    "pinyin": "kuàijìshī",
+    "vi": "kế toán viên"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/ngan-hang/05-储蓄.webp",
+    "zh": "储蓄",
+    "pinyin": "chǔxù",
+    "vi": "tiết kiệm"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/ngan-hang/06-客户.webp",
+    "zh": "客户",
+    "pinyin": "kèhù",
+    "vi": "khách hàng"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/ngan-hang/07-投资顾问.webp",
+    "zh": "投资顾问",
+    "pinyin": "tóuzīgùwèn",
+    "vi": "cố vấn đầu tư"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/ngan-hang/08-取款单.webp",
+    "zh": "取款单",
+    "pinyin": "qǔkuǎndān",
+    "vi": "phiếu rút tiền"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/ngan-hang/09-外币兑换处.webp",
+    "zh": "外币兑换处",
+    "pinyin": "wàibìduìhuànchù",
+    "vi": "quầy đổi ngoại tệ"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/ngan-hang/10-贷款.webp",
+    "zh": "贷款",
+    "pinyin": "dàikuǎn",
+    "vi": "khoản vay"
+  }
+]

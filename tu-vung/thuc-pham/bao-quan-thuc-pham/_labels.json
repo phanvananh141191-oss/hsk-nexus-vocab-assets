@@ -1,0 +1,32 @@
+[
+  {
+    "file": "tu-vung/thuc-pham/bao-quan-thuc-pham/01-保鲜.webp",
+    "zh": "保鲜",
+    "pinyin": "bǎoxiān",
+    "vi": "giữ tươi"
+  },
+  {
+    "file": "tu-vung/thuc-pham/bao-quan-thuc-pham/02-有效期.webp",
+    "zh": "有效期",
+    "pinyin": "yǒuxiàoqī",
+    "vi": "thời hạn hiệu lực"
+  },
+  {
+    "file": "tu-vung/thuc-pham/bao-quan-thuc-pham/03-腐烂.webp",
+    "zh": "腐烂",
+    "pinyin": "fǔlàn",
+    "vi": "thối rữa"
+  },
+  {
+    "file": "tu-vung/thuc-pham/bao-quan-thuc-pham/04-过期.webp",
+    "zh": "过期",
+    "pinyin": "guòqī",
+    "vi": "hết hạn"
+  },
+  {
+    "file": "tu-vung/thuc-pham/bao-quan-thuc-pham/05-盖.webp",
+    "zh": "盖",
+    "pinyin": "gài",
+    "vi": "nắp đậy"
+  }
+]

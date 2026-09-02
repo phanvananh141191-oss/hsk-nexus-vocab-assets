@@ -1,0 +1,62 @@
+[
+  {
+    "file": "tu-vung/hoc-tap-va-giao-duc/bai-kiem-tra/01-卷子.webp",
+    "zh": "卷子",
+    "pinyin": "juǎnzi",
+    "vi": "giấy thi"
+  },
+  {
+    "file": "tu-vung/hoc-tap-va-giao-duc/bai-kiem-tra/02-口试.webp",
+    "zh": "口试",
+    "pinyin": "kǒushì",
+    "vi": "thi vấn đáp"
+  },
+  {
+    "file": "tu-vung/hoc-tap-va-giao-duc/bai-kiem-tra/03-笔试.webp",
+    "zh": "笔试",
+    "pinyin": "bǐshì",
+    "vi": "thi viết"
+  },
+  {
+    "file": "tu-vung/hoc-tap-va-giao-duc/bai-kiem-tra/04-考场.webp",
+    "zh": "考场",
+    "pinyin": "kǎochǎng",
+    "vi": "phòng thi"
+  },
+  {
+    "file": "tu-vung/hoc-tap-va-giao-duc/bai-kiem-tra/05-考生.webp",
+    "zh": "考生",
+    "pinyin": "kǎoshēng",
+    "vi": "thí sinh"
+  },
+  {
+    "file": "tu-vung/hoc-tap-va-giao-duc/bai-kiem-tra/06-试卷.webp",
+    "zh": "试卷",
+    "pinyin": "shìjuàn",
+    "vi": "đề thi"
+  },
+  {
+    "file": "tu-vung/hoc-tap-va-giao-duc/bai-kiem-tra/07-高考.webp",
+    "zh": "高考",
+    "pinyin": "gāokǎo",
+    "vi": "kỳ thi đại học"
+  },
+  {
+    "file": "tu-vung/hoc-tap-va-giao-duc/bai-kiem-tra/08-测验.webp",
+    "zh": "测验",
+    "pinyin": "cèyàn",
+    "vi": "bài kiểm tra"
+  },
+  {
+    "file": "tu-vung/hoc-tap-va-giao-duc/bai-kiem-tra/09-补考.webp",
+    "zh": "补考",
+    "pinyin": "bǔkǎo",
+    "vi": "thi lại"
+  },
+  {
+    "file": "tu-vung/hoc-tap-va-giao-duc/bai-kiem-tra/10-问卷.webp",
+    "zh": "问卷",
+    "pinyin": "wènjuǎn",
+    "vi": "bảng câu hỏi"
+  }
+]

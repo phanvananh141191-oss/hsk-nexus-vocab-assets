@@ -1,0 +1,62 @@
+[
+  {
+    "file": "tu-vung/thuc-pham/banh-ngot/01-巧克力.webp",
+    "zh": "巧克力",
+    "pinyin": "qiǎokèlì",
+    "vi": "sô-cô-la"
+  },
+  {
+    "file": "tu-vung/thuc-pham/banh-ngot/02-蛋糕.webp",
+    "zh": "蛋糕",
+    "pinyin": "dàngāo",
+    "vi": "bánh kem"
+  },
+  {
+    "file": "tu-vung/thuc-pham/banh-ngot/03-巧克力蛋糕.webp",
+    "zh": "巧克力蛋糕",
+    "pinyin": "qiǎokèlìdàngāo",
+    "vi": "bánh sô-cô-la"
+  },
+  {
+    "file": "tu-vung/thuc-pham/banh-ngot/04-小圆蛋糕.webp",
+    "zh": "小圆蛋糕",
+    "pinyin": "xiǎoyuándàngāo",
+    "vi": "bánh cupcake"
+  },
+  {
+    "file": "tu-vung/thuc-pham/banh-ngot/05-牛奶巧克力.webp",
+    "zh": "牛奶巧克力",
+    "pinyin": "niúnǎiqiǎokèlì",
+    "vi": "sô-cô-la sữa"
+  },
+  {
+    "file": "tu-vung/thuc-pham/banh-ngot/06-白巧克力.webp",
+    "zh": "白巧克力",
+    "pinyin": "báiqiǎokèlì",
+    "vi": "sô-cô-la trắng"
+  },
+  {
+    "file": "tu-vung/thuc-pham/banh-ngot/07-黑巧克力.webp",
+    "zh": "黑巧克力",
+    "pinyin": "hēiqiǎokèlì",
+    "vi": "sô-cô-la đen"
+  },
+  {
+    "file": "tu-vung/thuc-pham/banh-ngot/08-面团.webp",
+    "zh": "面团",
+    "pinyin": "miàntuán",
+    "vi": "bột nhào"
+  },
+  {
+    "file": "tu-vung/thuc-pham/banh-ngot/09-蛋奶糕.webp",
+    "zh": "蛋奶糕",
+    "pinyin": "dànnǎigāo",
+    "vi": "bánh custard"
+  },
+  {
+    "file": "tu-vung/thuc-pham/banh-ngot/10-米饭布丁.webp",
+    "zh": "米饭布丁",
+    "pinyin": "mǐfànbùdīng",
+    "vi": "pudding cơm"
+  }
+]

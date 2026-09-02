@@ -1,0 +1,62 @@
+[
+  {
+    "file": "tu-vung/hoc-tap-va-giao-duc/thu-vien/01-借书证.webp",
+    "zh": "借书证",
+    "pinyin": "jièshūzhèng",
+    "vi": "thẻ mượn sách"
+  },
+  {
+    "file": "tu-vung/hoc-tap-va-giao-duc/thu-vien/02-图书.webp",
+    "zh": "图书",
+    "pinyin": "túshū",
+    "vi": "sách"
+  },
+  {
+    "file": "tu-vung/hoc-tap-va-giao-duc/thu-vien/03-图书管理员.webp",
+    "zh": "图书管理员",
+    "pinyin": "túshūguǎnlǐyuán",
+    "vi": "thủ thư"
+  },
+  {
+    "file": "tu-vung/hoc-tap-va-giao-duc/thu-vien/04-图书馆.webp",
+    "zh": "图书馆",
+    "pinyin": "túshūguǎn",
+    "vi": "thư viện"
+  },
+  {
+    "file": "tu-vung/hoc-tap-va-giao-duc/thu-vien/05-期刊.webp",
+    "zh": "期刊",
+    "pinyin": "qīkān",
+    "vi": "tạp chí"
+  },
+  {
+    "file": "tu-vung/hoc-tap-va-giao-duc/thu-vien/06-阅览室.webp",
+    "zh": "阅览室",
+    "pinyin": "yuèlǎnshì",
+    "vi": "phòng đọc"
+  },
+  {
+    "file": "tu-vung/hoc-tap-va-giao-duc/thu-vien/07-书籍.webp",
+    "zh": "书籍",
+    "pinyin": "shūjí",
+    "vi": "sách vở"
+  },
+  {
+    "file": "tu-vung/hoc-tap-va-giao-duc/thu-vien/08-读书.webp",
+    "zh": "读书",
+    "pinyin": "dúshū",
+    "vi": "đọc sách"
+  },
+  {
+    "file": "tu-vung/hoc-tap-va-giao-duc/thu-vien/09-借出.webp",
+    "zh": "借出",
+    "pinyin": "jièchū",
+    "vi": "cho mượn"
+  },
+  {
+    "file": "tu-vung/hoc-tap-va-giao-duc/thu-vien/10-还书日期.webp",
+    "zh": "还书日期",
+    "pinyin": "huánshūrìqī",
+    "vi": "ngày trả sách"
+  }
+]

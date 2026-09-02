@@ -1,0 +1,62 @@
+[
+  {
+    "file": "tu-vung/moi-truong-va-tu-nhien/khi-hau/01-下雨.webp",
+    "zh": "下雨",
+    "pinyin": "xiàyǔ",
+    "vi": "trời mưa"
+  },
+  {
+    "file": "tu-vung/moi-truong-va-tu-nhien/khi-hau/02-下雪.webp",
+    "zh": "下雪",
+    "pinyin": "xiàxuě",
+    "vi": "trời tuyết"
+  },
+  {
+    "file": "tu-vung/moi-truong-va-tu-nhien/khi-hau/03-冰融.webp",
+    "zh": "冰融",
+    "pinyin": "bīngróng",
+    "vi": "băng tan"
+  },
+  {
+    "file": "tu-vung/moi-truong-va-tu-nhien/khi-hau/04-摄氏度.webp",
+    "zh": "摄氏度",
+    "pinyin": "shèshìdù",
+    "vi": "độ C"
+  },
+  {
+    "file": "tu-vung/moi-truong-va-tu-nhien/khi-hau/05-旱灾.webp",
+    "zh": "旱灾",
+    "pinyin": "hànzāi",
+    "vi": "hạn hán"
+  },
+  {
+    "file": "tu-vung/moi-truong-va-tu-nhien/khi-hau/06-晴天.webp",
+    "zh": "晴天",
+    "pinyin": "qíngtiān",
+    "vi": "trời nắng"
+  },
+  {
+    "file": "tu-vung/moi-truong-va-tu-nhien/khi-hau/07-气温.webp",
+    "zh": "气温",
+    "pinyin": "qìwēn",
+    "vi": "nhiệt độ không khí"
+  },
+  {
+    "file": "tu-vung/moi-truong-va-tu-nhien/khi-hau/08-炎热.webp",
+    "zh": "炎热",
+    "pinyin": "yánrè",
+    "vi": "nóng bức"
+  },
+  {
+    "file": "tu-vung/moi-truong-va-tu-nhien/khi-hau/09-零下.webp",
+    "zh": "零下",
+    "pinyin": "língxià",
+    "vi": "dưới 0 độ"
+  },
+  {
+    "file": "tu-vung/moi-truong-va-tu-nhien/khi-hau/10-高温.webp",
+    "zh": "高温",
+    "pinyin": "gāowēn",
+    "vi": "nhiệt độ cao"
+  }
+]

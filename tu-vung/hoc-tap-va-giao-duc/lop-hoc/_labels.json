@@ -1,0 +1,62 @@
+[
+  {
+    "file": "tu-vung/hoc-tap-va-giao-duc/lop-hoc/01-下课.webp",
+    "zh": "下课",
+    "pinyin": "xiàkè",
+    "vi": "tan học"
+  },
+  {
+    "file": "tu-vung/hoc-tap-va-giao-duc/lop-hoc/02-听讲.webp",
+    "zh": "听讲",
+    "pinyin": "tīngjiǎng",
+    "vi": "nghe giảng"
+  },
+  {
+    "file": "tu-vung/hoc-tap-va-giao-duc/lop-hoc/03-教室.webp",
+    "zh": "教室",
+    "pinyin": "jiàoshì",
+    "vi": "phòng học"
+  },
+  {
+    "file": "tu-vung/hoc-tap-va-giao-duc/lop-hoc/04-点名.webp",
+    "zh": "点名",
+    "pinyin": "diǎnmíng",
+    "vi": "điểm danh"
+  },
+  {
+    "file": "tu-vung/hoc-tap-va-giao-duc/lop-hoc/05-班长.webp",
+    "zh": "班长",
+    "pinyin": "bānzhǎng",
+    "vi": "lớp trưởng"
+  },
+  {
+    "file": "tu-vung/hoc-tap-va-giao-duc/lop-hoc/06-讲课.webp",
+    "zh": "讲课",
+    "pinyin": "jiǎngkè",
+    "vi": "giảng bài"
+  },
+  {
+    "file": "tu-vung/hoc-tap-va-giao-duc/lop-hoc/07-课堂.webp",
+    "zh": "课堂",
+    "pinyin": "kètáng",
+    "vi": "lớp học"
+  },
+  {
+    "file": "tu-vung/hoc-tap-va-giao-duc/lop-hoc/08-课桌.webp",
+    "zh": "课桌",
+    "pinyin": "kèzhuō",
+    "vi": "bàn học"
+  },
+  {
+    "file": "tu-vung/hoc-tap-va-giao-duc/lop-hoc/09-上课.webp",
+    "zh": "上课",
+    "pinyin": "shàngkè",
+    "vi": "lên lớp"
+  },
+  {
+    "file": "tu-vung/hoc-tap-va-giao-duc/lop-hoc/10-补课.webp",
+    "zh": "补课",
+    "pinyin": "bǔkè",
+    "vi": "học phụ đạo"
+  }
+]

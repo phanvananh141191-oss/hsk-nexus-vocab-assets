@@ -1,0 +1,62 @@
+[
+  {
+    "file": "tu-vung/hoc-tap-va-giao-duc/sach-giao-khoa/01-作文.webp",
+    "zh": "作文",
+    "pinyin": "zuòwén",
+    "vi": "bài viết"
+  },
+  {
+    "file": "tu-vung/hoc-tap-va-giao-duc/sach-giao-khoa/02-封面.webp",
+    "zh": "封面",
+    "pinyin": "fēngmiàn",
+    "vi": "bìa sách"
+  },
+  {
+    "file": "tu-vung/hoc-tap-va-giao-duc/sach-giao-khoa/03-插图.webp",
+    "zh": "插图",
+    "pinyin": "chātú",
+    "vi": "tranh minh họa"
+  },
+  {
+    "file": "tu-vung/hoc-tap-va-giao-duc/sach-giao-khoa/04-教材.webp",
+    "zh": "教材",
+    "pinyin": "jiàocái",
+    "vi": "tài liệu giảng dạy"
+  },
+  {
+    "file": "tu-vung/hoc-tap-va-giao-duc/sach-giao-khoa/05-教科书.webp",
+    "zh": "教科书",
+    "pinyin": "jiàokēshū",
+    "vi": "sách giáo khoa"
+  },
+  {
+    "file": "tu-vung/hoc-tap-va-giao-duc/sach-giao-khoa/06-百科全书.webp",
+    "zh": "百科全书",
+    "pinyin": "bǎikēquánshū",
+    "vi": "bách khoa toàn thư"
+  },
+  {
+    "file": "tu-vung/hoc-tap-va-giao-duc/sach-giao-khoa/07-词典.webp",
+    "zh": "词典",
+    "pinyin": "cídiǎn",
+    "vi": "từ điển"
+  },
+  {
+    "file": "tu-vung/hoc-tap-va-giao-duc/sach-giao-khoa/08-课本.webp",
+    "zh": "课本",
+    "pinyin": "kèběn",
+    "vi": "sách giáo khoa"
+  },
+  {
+    "file": "tu-vung/hoc-tap-va-giao-duc/sach-giao-khoa/09-考试.webp",
+    "zh": "考试",
+    "pinyin": "kǎoshì",
+    "vi": "kỳ thi"
+  },
+  {
+    "file": "tu-vung/hoc-tap-va-giao-duc/sach-giao-khoa/10-记笔记.webp",
+    "zh": "记笔记",
+    "pinyin": "jìbǐjì",
+    "vi": "ghi chép"
+  }
+]

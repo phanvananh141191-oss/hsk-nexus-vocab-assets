@@ -1,0 +1,62 @@
+[
+  {
+    "file": "tu-vung/khoa-hoc-cong-nghe-va-ky-thuat/phan-cung-may-tinh/01-主板.webp",
+    "zh": "主板",
+    "pinyin": "zhǔbǎn",
+    "vi": "bo mạch chủ"
+  },
+  {
+    "file": "tu-vung/khoa-hoc-cong-nghe-va-ky-thuat/phan-cung-may-tinh/02-芯片.webp",
+    "zh": "芯片",
+    "pinyin": "xīnpiàn",
+    "vi": "chip"
+  },
+  {
+    "file": "tu-vung/khoa-hoc-cong-nghe-va-ky-thuat/phan-cung-may-tinh/03-按键.webp",
+    "zh": "按键",
+    "pinyin": "ànjiàn",
+    "vi": "phím bấm"
+  },
+  {
+    "file": "tu-vung/khoa-hoc-cong-nghe-va-ky-thuat/phan-cung-may-tinh/04-无线电.webp",
+    "zh": "无线电",
+    "pinyin": "wúxiàndiàn",
+    "vi": "máy vô tuyến"
+  },
+  {
+    "file": "tu-vung/khoa-hoc-cong-nghe-va-ky-thuat/phan-cung-may-tinh/05-桌面.webp",
+    "zh": "桌面",
+    "pinyin": "zhuōmiàn",
+    "vi": "màn hình nền"
+  },
+  {
+    "file": "tu-vung/khoa-hoc-cong-nghe-va-ky-thuat/phan-cung-may-tinh/06-回收站.webp",
+    "zh": "回收站",
+    "pinyin": "huíshōuzhàn",
+    "vi": "thùng rác"
+  },
+  {
+    "file": "tu-vung/khoa-hoc-cong-nghe-va-ky-thuat/phan-cung-may-tinh/07-附件.webp",
+    "zh": "附件",
+    "pinyin": "fùjiàn",
+    "vi": "tệp đính kèm"
+  },
+  {
+    "file": "tu-vung/khoa-hoc-cong-nghe-va-ky-thuat/phan-cung-may-tinh/08-安装.webp",
+    "zh": "安装",
+    "pinyin": "ānzhuāng",
+    "vi": "cài đặt"
+  },
+  {
+    "file": "tu-vung/khoa-hoc-cong-nghe-va-ky-thuat/phan-cung-may-tinh/09-显示器.webp",
+    "zh": "显示器",
+    "pinyin": "xiǎnshìqì",
+    "vi": "màn hình"
+  },
+  {
+    "file": "tu-vung/khoa-hoc-cong-nghe-va-ky-thuat/phan-cung-may-tinh/10-浏览器.webp",
+    "zh": "浏览器",
+    "pinyin": "liúlǎnqì",
+    "vi": "trình duyệt"
+  }
+]

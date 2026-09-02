@@ -1,0 +1,62 @@
+[
+  {
+    "file": "tu-vung/ngon-ngu-hang-ngay/thong-tin-ca-nhan/01-姓名.webp",
+    "zh": "姓名",
+    "pinyin": "xìngmíng",
+    "vi": "họ tên"
+  },
+  {
+    "file": "tu-vung/ngon-ngu-hang-ngay/thong-tin-ca-nhan/02-身份.webp",
+    "zh": "身份",
+    "pinyin": "shēnfèn",
+    "vi": "danh phận"
+  },
+  {
+    "file": "tu-vung/ngon-ngu-hang-ngay/thong-tin-ca-nhan/03-名字.webp",
+    "zh": "名字",
+    "pinyin": "míngzì",
+    "vi": "tên"
+  },
+  {
+    "file": "tu-vung/ngon-ngu-hang-ngay/thong-tin-ca-nhan/04-姓氏.webp",
+    "zh": "姓氏",
+    "pinyin": "xìngshì",
+    "vi": "họ"
+  },
+  {
+    "file": "tu-vung/ngon-ngu-hang-ngay/thong-tin-ca-nhan/05-外号.webp",
+    "zh": "外号",
+    "pinyin": "wàihào",
+    "vi": "biệt danh"
+  },
+  {
+    "file": "tu-vung/ngon-ngu-hang-ngay/thong-tin-ca-nhan/06-我.webp",
+    "zh": "我",
+    "pinyin": "wǒ",
+    "vi": "tôi"
+  },
+  {
+    "file": "tu-vung/ngon-ngu-hang-ngay/thong-tin-ca-nhan/07-我们.webp",
+    "zh": "我们",
+    "pinyin": "wǒmen",
+    "vi": "chúng tôi"
+  },
+  {
+    "file": "tu-vung/ngon-ngu-hang-ngay/thong-tin-ca-nhan/08-外籍.webp",
+    "zh": "外籍",
+    "pinyin": "wàijí",
+    "vi": "ngoại tịch"
+  },
+  {
+    "file": "tu-vung/ngon-ngu-hang-ngay/thong-tin-ca-nhan/09-祖籍.webp",
+    "zh": "祖籍",
+    "pinyin": "zǔjí",
+    "vi": "quê quán tổ tiên"
+  },
+  {
+    "file": "tu-vung/ngon-ngu-hang-ngay/thong-tin-ca-nhan/10-改名.webp",
+    "zh": "改名",
+    "pinyin": "gǎimíng",
+    "vi": "đổi tên"
+  }
+]

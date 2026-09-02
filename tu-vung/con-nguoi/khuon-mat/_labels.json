@@ -1,0 +1,62 @@
+[
+  {
+    "file": "tu-vung/con-nguoi/khuon-mat/01-前额.webp",
+    "zh": "前额",
+    "pinyin": "qiáné",
+    "vi": "trán"
+  },
+  {
+    "file": "tu-vung/con-nguoi/khuon-mat/02-嘴唇.webp",
+    "zh": "嘴唇",
+    "pinyin": "zuǐchún",
+    "vi": "môi"
+  },
+  {
+    "file": "tu-vung/con-nguoi/khuon-mat/03-牙齿.webp",
+    "zh": "牙齿",
+    "pinyin": "yáchǐ",
+    "vi": "răng"
+  },
+  {
+    "file": "tu-vung/con-nguoi/khuon-mat/04-眉毛.webp",
+    "zh": "眉毛",
+    "pinyin": "méimáo",
+    "vi": "lông mày"
+  },
+  {
+    "file": "tu-vung/con-nguoi/khuon-mat/05-睫毛.webp",
+    "zh": "睫毛",
+    "pinyin": "jiémáo",
+    "vi": "lông mi"
+  },
+  {
+    "file": "tu-vung/con-nguoi/khuon-mat/06-耳朵.webp",
+    "zh": "耳朵",
+    "pinyin": "ěrduǒ",
+    "vi": "tai"
+  },
+  {
+    "file": "tu-vung/con-nguoi/khuon-mat/07-脸颊.webp",
+    "zh": "脸颊",
+    "pinyin": "liǎnjiá",
+    "vi": "má"
+  },
+  {
+    "file": "tu-vung/con-nguoi/khuon-mat/08-舌头.webp",
+    "zh": "舌头",
+    "pinyin": "shétou",
+    "vi": "lưỡi"
+  },
+  {
+    "file": "tu-vung/con-nguoi/khuon-mat/09-鼻子.webp",
+    "zh": "鼻子",
+    "pinyin": "bízi",
+    "vi": "mũi"
+  },
+  {
+    "file": "tu-vung/con-nguoi/khuon-mat/10-眼睛.webp",
+    "zh": "眼睛",
+    "pinyin": "yǎnjīng",
+    "vi": "mắt"
+  }
+]

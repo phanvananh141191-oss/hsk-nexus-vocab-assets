@@ -1,0 +1,62 @@
+[
+  {
+    "file": "tu-vung/suc-khoe/thuoc-va-dang-thuoc/01-中药.webp",
+    "zh": "中药",
+    "pinyin": "zhōngyào",
+    "vi": "thuốc Bắc"
+  },
+  {
+    "file": "tu-vung/suc-khoe/thuoc-va-dang-thuoc/02-丸.webp",
+    "zh": "丸",
+    "pinyin": "wán",
+    "vi": "viên hoàn"
+  },
+  {
+    "file": "tu-vung/suc-khoe/thuoc-va-dang-thuoc/03-打针.webp",
+    "zh": "打针",
+    "pinyin": "dǎzhēn",
+    "vi": "tiêm"
+  },
+  {
+    "file": "tu-vung/suc-khoe/thuoc-va-dang-thuoc/04-抗生素.webp",
+    "zh": "抗生素",
+    "pinyin": "kàngshēngsù",
+    "vi": "kháng sinh"
+  },
+  {
+    "file": "tu-vung/suc-khoe/thuoc-va-dang-thuoc/05-疫苗.webp",
+    "zh": "疫苗",
+    "pinyin": "yìmiáo",
+    "vi": "vắc-xin"
+  },
+  {
+    "file": "tu-vung/suc-khoe/thuoc-va-dang-thuoc/06-维生素.webp",
+    "zh": "维生素",
+    "pinyin": "wéishēngsù",
+    "vi": "vitamin"
+  },
+  {
+    "file": "tu-vung/suc-khoe/thuoc-va-dang-thuoc/07-胰岛素.webp",
+    "zh": "胰岛素",
+    "pinyin": "yídǎosù",
+    "vi": "insulin"
+  },
+  {
+    "file": "tu-vung/suc-khoe/thuoc-va-dang-thuoc/08-输液.webp",
+    "zh": "输液",
+    "pinyin": "shūyè",
+    "vi": "truyền dịch"
+  },
+  {
+    "file": "tu-vung/suc-khoe/thuoc-va-dang-thuoc/09-营养品.webp",
+    "zh": "营养品",
+    "pinyin": "yíngyǎngpǐn",
+    "vi": "thực phẩm bổ sung"
+  },
+  {
+    "file": "tu-vung/suc-khoe/thuoc-va-dang-thuoc/10-镇静剂.webp",
+    "zh": "镇静剂",
+    "pinyin": "zhènjìngjì",
+    "vi": "thuốc an thần"
+  }
+]

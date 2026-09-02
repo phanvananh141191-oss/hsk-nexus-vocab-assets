@@ -1,0 +1,62 @@
+[
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/san-pham-va-dich-vu/01-产品.webp",
+    "zh": "产品",
+    "pinyin": "chǎnpǐn",
+    "vi": "sản phẩm"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/san-pham-va-dich-vu/02-商品.webp",
+    "zh": "商品",
+    "pinyin": "shāngpǐn",
+    "vi": "hàng hóa"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/san-pham-va-dich-vu/03-样品.webp",
+    "zh": "样品",
+    "pinyin": "yàngpǐn",
+    "vi": "mẫu hàng"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/san-pham-va-dich-vu/04-库存.webp",
+    "zh": "库存",
+    "pinyin": "kùcún",
+    "vi": "hàng tồn kho"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/san-pham-va-dich-vu/05-物流.webp",
+    "zh": "物流",
+    "pinyin": "wùliú",
+    "vi": "logistics"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/san-pham-va-dich-vu/06-货物.webp",
+    "zh": "货物",
+    "pinyin": "huòwù",
+    "vi": "hàng hóa"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/san-pham-va-dich-vu/07-商标.webp",
+    "zh": "商标",
+    "pinyin": "shāngbiāo",
+    "vi": "nhãn hiệu"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/san-pham-va-dich-vu/08-货物清单.webp",
+    "zh": "货物清单",
+    "pinyin": "huòwùqīngdān",
+    "vi": "danh sách hàng"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/san-pham-va-dich-vu/09-生产.webp",
+    "zh": "生产",
+    "pinyin": "shēngchǎn",
+    "vi": "sản xuất"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/san-pham-va-dich-vu/10-品牌.webp",
+    "zh": "品牌",
+    "pinyin": "pǐnpái",
+    "vi": "thương hiệu"
+  }
+]

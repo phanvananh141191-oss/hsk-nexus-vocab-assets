@@ -1,0 +1,62 @@
+[
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/mua-ban-va-giao-dich/01-市场.webp",
+    "zh": "市场",
+    "pinyin": "shìchǎng",
+    "vi": "chợ"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/mua-ban-va-giao-dich/02-拍卖.webp",
+    "zh": "拍卖",
+    "pinyin": "pāimài",
+    "vi": "đấu giá"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/mua-ban-va-giao-dich/03-批发.webp",
+    "zh": "批发",
+    "pinyin": "pīfā",
+    "vi": "bán sỉ"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/mua-ban-va-giao-dich/04-零售.webp",
+    "zh": "零售",
+    "pinyin": "língshòu",
+    "vi": "bán lẻ"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/mua-ban-va-giao-dich/05-交货地点.webp",
+    "zh": "交货地点",
+    "pinyin": "jiāohuòdìdiǎn",
+    "vi": "nơi giao hàng"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/mua-ban-va-giao-dich/06-价目表.webp",
+    "zh": "价目表",
+    "pinyin": "jiàmùbiǎo",
+    "vi": "bảng giá"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/mua-ban-va-giao-dich/07-采购.webp",
+    "zh": "采购",
+    "pinyin": "cǎigòu",
+    "vi": "thu mua"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/mua-ban-va-giao-dich/08-谈判.webp",
+    "zh": "谈判",
+    "pinyin": "tánpàn",
+    "vi": "đàm phán"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/mua-ban-va-giao-dich/09-电子商务.webp",
+    "zh": "电子商务",
+    "pinyin": "diànzishāngwù",
+    "vi": "thương mại điện tử"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/mua-ban-va-giao-dich/10-定金.webp",
+    "zh": "定金",
+    "pinyin": "dìngjīn",
+    "vi": "tiền đặt cọc"
+  }
+]

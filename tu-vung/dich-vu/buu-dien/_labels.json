@@ -1,0 +1,62 @@
+[
+  {
+    "file": "tu-vung/dich-vu/buu-dien/01-信封.webp",
+    "zh": "信封",
+    "pinyin": "xìnfēng",
+    "vi": "phong bì"
+  },
+  {
+    "file": "tu-vung/dich-vu/buu-dien/02-挂号邮件.webp",
+    "zh": "挂号邮件",
+    "pinyin": "guàhàoyóujiàn",
+    "vi": "thư bảo đảm"
+  },
+  {
+    "file": "tu-vung/dich-vu/buu-dien/03-航空邮件.webp",
+    "zh": "航空邮件",
+    "pinyin": "hángkōngyóujiàn",
+    "vi": "thư hàng không"
+  },
+  {
+    "file": "tu-vung/dich-vu/buu-dien/04-邮局.webp",
+    "zh": "邮局",
+    "pinyin": "yóujú",
+    "vi": "bưu điện"
+  },
+  {
+    "file": "tu-vung/dich-vu/buu-dien/05-邮局职员.webp",
+    "zh": "邮局职员",
+    "pinyin": "yóujúzhíyuán",
+    "vi": "nhân viên bưu điện"
+  },
+  {
+    "file": "tu-vung/dich-vu/buu-dien/06-邮筒.webp",
+    "zh": "邮筒",
+    "pinyin": "yóutǒng",
+    "vi": "hòm thư công cộng"
+  },
+  {
+    "file": "tu-vung/dich-vu/buu-dien/07-邮袋.webp",
+    "zh": "邮袋",
+    "pinyin": "yóudài",
+    "vi": "bao thư bưu điện"
+  },
+  {
+    "file": "tu-vung/dich-vu/buu-dien/08-邮递员.webp",
+    "zh": "邮递员",
+    "pinyin": "yóudìyuán",
+    "vi": "người đưa thư"
+  },
+  {
+    "file": "tu-vung/dich-vu/buu-dien/09-信件.webp",
+    "zh": "信件",
+    "pinyin": "xìnjiàn",
+    "vi": "thư từ"
+  },
+  {
+    "file": "tu-vung/dich-vu/buu-dien/10-汇票.webp",
+    "zh": "汇票",
+    "pinyin": "huìpiào",
+    "vi": "séc chuyển tiền"
+  }
+]

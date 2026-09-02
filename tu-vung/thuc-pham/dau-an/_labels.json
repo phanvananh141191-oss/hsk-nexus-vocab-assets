@@ -1,0 +1,38 @@
+[
+  {
+    "file": "tu-vung/thuc-pham/dau-an/01-冷榨油.webp",
+    "zh": "冷榨油",
+    "pinyin": "lěngzhàyóu",
+    "vi": "dầu ép lạnh"
+  },
+  {
+    "file": "tu-vung/thuc-pham/dau-an/02-植物油.webp",
+    "zh": "植物油",
+    "pinyin": "zhíwùyóu",
+    "vi": "dầu thực vật"
+  },
+  {
+    "file": "tu-vung/thuc-pham/dau-an/03-玉米油.webp",
+    "zh": "玉米油",
+    "pinyin": "yùmǐyóu",
+    "vi": "dầu ngô"
+  },
+  {
+    "file": "tu-vung/thuc-pham/dau-an/04-花生油.webp",
+    "zh": "花生油",
+    "pinyin": "huāshēngyóu",
+    "vi": "dầu lạc"
+  },
+  {
+    "file": "tu-vung/thuc-pham/dau-an/05-菜籽油.webp",
+    "zh": "菜籽油",
+    "pinyin": "càizǐyóu",
+    "vi": "dầu hạt cải"
+  },
+  {
+    "file": "tu-vung/thuc-pham/dau-an/06-香油.webp",
+    "zh": "香油",
+    "pinyin": "xiāngyóu",
+    "vi": "dầu mè"
+  }
+]

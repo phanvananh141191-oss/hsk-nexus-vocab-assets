@@ -1,0 +1,62 @@
+[
+  {
+    "file": "tu-vung/thuc-pham/banh-quy/01-饼干.webp",
+    "zh": "饼干",
+    "pinyin": "bǐnggān",
+    "vi": "bánh quy"
+  },
+  {
+    "file": "tu-vung/thuc-pham/banh-quy/02-棒棒糖.webp",
+    "zh": "棒棒糖",
+    "pinyin": "bàngbàngtáng",
+    "vi": "kẹo mút"
+  },
+  {
+    "file": "tu-vung/thuc-pham/banh-quy/03-棉花软糖.webp",
+    "zh": "棉花软糖",
+    "pinyin": "miánhuāruǎntáng",
+    "vi": "kẹo marshmallow"
+  },
+  {
+    "file": "tu-vung/thuc-pham/banh-quy/04-口香糖.webp",
+    "zh": "口香糖",
+    "pinyin": "kǒuxiāngtáng",
+    "vi": "kẹo cao su"
+  },
+  {
+    "file": "tu-vung/thuc-pham/banh-quy/05-糖果.webp",
+    "zh": "糖果",
+    "pinyin": "tángguǒ",
+    "vi": "kẹo"
+  },
+  {
+    "file": "tu-vung/thuc-pham/banh-quy/06-薄荷糖.webp",
+    "zh": "薄荷糖",
+    "pinyin": "bòhétáng",
+    "vi": "kẹo bạc hà"
+  },
+  {
+    "file": "tu-vung/thuc-pham/banh-quy/07-硬糖.webp",
+    "zh": "硬糖",
+    "pinyin": "yìngtáng",
+    "vi": "kẹo cứng"
+  },
+  {
+    "file": "tu-vung/thuc-pham/banh-quy/08-果汁冰糕.webp",
+    "zh": "果汁冰糕",
+    "pinyin": "guǒzhībīnggāo",
+    "vi": "kem đá trái cây"
+  },
+  {
+    "file": "tu-vung/thuc-pham/banh-quy/09-奶油馅饼.webp",
+    "zh": "奶油馅饼",
+    "pinyin": "nǎiyóuxiànbǐng",
+    "vi": "bánh tart kem"
+  },
+  {
+    "file": "tu-vung/thuc-pham/banh-quy/10-慕思.webp",
+    "zh": "慕思",
+    "pinyin": "mùsī",
+    "vi": "bánh mousse"
+  }
+]

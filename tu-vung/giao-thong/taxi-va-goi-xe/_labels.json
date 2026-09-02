@@ -1,0 +1,26 @@
+[
+  {
+    "file": "tu-vung/giao-thong/taxi-va-goi-xe/01-便捷.webp",
+    "zh": "便捷",
+    "pinyin": "biànjié",
+    "vi": "thuận tiện"
+  },
+  {
+    "file": "tu-vung/giao-thong/taxi-va-goi-xe/02-打车.webp",
+    "zh": "打车",
+    "pinyin": "dǎchē",
+    "vi": "bắt taxi"
+  },
+  {
+    "file": "tu-vung/giao-thong/taxi-va-goi-xe/03-接送.webp",
+    "zh": "接送",
+    "pinyin": "jiēsòng",
+    "vi": "đón tiễn"
+  },
+  {
+    "file": "tu-vung/giao-thong/taxi-va-goi-xe/04-接.webp",
+    "zh": "接",
+    "pinyin": "jiē",
+    "vi": "đón"
+  }
+]

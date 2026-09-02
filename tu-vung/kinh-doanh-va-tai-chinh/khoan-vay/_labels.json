@@ -1,0 +1,62 @@
+[
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/khoan-vay/01-借条.webp",
+    "zh": "借条",
+    "pinyin": "jiètiáo",
+    "vi": "giấy vay"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/khoan-vay/02-抵押.webp",
+    "zh": "抵押",
+    "pinyin": "dǐyā",
+    "vi": "thế chấp"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/khoan-vay/03-还款.webp",
+    "zh": "还款",
+    "pinyin": "háikuǎn",
+    "vi": "trả nợ"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/khoan-vay/04-债务.webp",
+    "zh": "债务",
+    "pinyin": "zhàiwù",
+    "vi": "nợ"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/khoan-vay/05-信贷.webp",
+    "zh": "信贷",
+    "pinyin": "xìndài",
+    "vi": "tín dụng cho vay"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/khoan-vay/06-到期.webp",
+    "zh": "到期",
+    "pinyin": "dàoqī",
+    "vi": "đến hạn"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/khoan-vay/07-偿还.webp",
+    "zh": "偿还",
+    "pinyin": "chánghuán",
+    "vi": "hoàn trả"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/khoan-vay/08-押.webp",
+    "zh": "押",
+    "pinyin": "yā",
+    "vi": "cầm cố"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/khoan-vay/09-拖欠.webp",
+    "zh": "拖欠",
+    "pinyin": "tuōqiàn",
+    "vi": "nợ đọng"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/khoan-vay/10-欠.webp",
+    "zh": "欠",
+    "pinyin": "qiàn",
+    "vi": "nợ"
+  }
+]

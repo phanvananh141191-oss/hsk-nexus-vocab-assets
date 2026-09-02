@@ -1,0 +1,62 @@
+[
+  {
+    "file": "tu-vung/mua-sam/quay-thanh-toan/01-化妆品.webp",
+    "zh": "化妆品",
+    "pinyin": "huàzhuāngpǐn",
+    "vi": "mỹ phẩm"
+  },
+  {
+    "file": "tu-vung/mua-sam/quay-thanh-toan/02-婴儿用品.webp",
+    "zh": "婴儿用品",
+    "pinyin": "yīngéryòngpǐn",
+    "vi": "đồ dùng cho trẻ"
+  },
+  {
+    "file": "tu-vung/mua-sam/quay-thanh-toan/03-家用电器.webp",
+    "zh": "家用电器",
+    "pinyin": "jiāyòngdiànqì",
+    "vi": "đồ điện gia dụng"
+  },
+  {
+    "file": "tu-vung/mua-sam/quay-thanh-toan/04-排队.webp",
+    "zh": "排队",
+    "pinyin": "páiduì",
+    "vi": "xếp hàng"
+  },
+  {
+    "file": "tu-vung/mua-sam/quay-thanh-toan/05-收款台.webp",
+    "zh": "收款台",
+    "pinyin": "shōukuǎntái",
+    "vi": "quầy thu ngân"
+  },
+  {
+    "file": "tu-vung/mua-sam/quay-thanh-toan/06-收款机.webp",
+    "zh": "收款机",
+    "pinyin": "shōukuǎnjī",
+    "vi": "máy tính tiền"
+  },
+  {
+    "file": "tu-vung/mua-sam/quay-thanh-toan/07-条形码.webp",
+    "zh": "条形码",
+    "pinyin": "tiáoxíngmǎ",
+    "vi": "mã vạch"
+  },
+  {
+    "file": "tu-vung/mua-sam/quay-thanh-toan/08-柜台.webp",
+    "zh": "柜台",
+    "pinyin": "guìtái",
+    "vi": "quầy hàng"
+  },
+  {
+    "file": "tu-vung/mua-sam/quay-thanh-toan/09-购物袋.webp",
+    "zh": "购物袋",
+    "pinyin": "gòuwùdài",
+    "vi": "túi mua sắm"
+  },
+  {
+    "file": "tu-vung/mua-sam/quay-thanh-toan/10-饮料.webp",
+    "zh": "饮料",
+    "pinyin": "yǐnliào",
+    "vi": "đồ uống"
+  }
+]

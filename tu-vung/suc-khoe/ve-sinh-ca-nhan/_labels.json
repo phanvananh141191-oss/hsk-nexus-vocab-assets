@@ -1,0 +1,26 @@
+[
+  {
+    "file": "tu-vung/suc-khoe/ve-sinh-ca-nhan/01-卫生.webp",
+    "zh": "卫生",
+    "pinyin": "wèishēng",
+    "vi": "vệ sinh"
+  },
+  {
+    "file": "tu-vung/suc-khoe/ve-sinh-ca-nhan/02-消毒.webp",
+    "zh": "消毒",
+    "pinyin": "xiāodú",
+    "vi": "khử trùng"
+  },
+  {
+    "file": "tu-vung/suc-khoe/ve-sinh-ca-nhan/03-防疫.webp",
+    "zh": "防疫",
+    "pinyin": "fángyì",
+    "vi": "phòng dịch"
+  },
+  {
+    "file": "tu-vung/suc-khoe/ve-sinh-ca-nhan/04-隔离.webp",
+    "zh": "隔离",
+    "pinyin": "gélí",
+    "vi": "cách ly"
+  }
+]

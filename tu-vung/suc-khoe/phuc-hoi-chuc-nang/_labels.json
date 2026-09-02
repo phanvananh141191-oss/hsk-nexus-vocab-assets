@@ -1,0 +1,62 @@
+[
+  {
+    "file": "tu-vung/suc-khoe/phuc-hoi-chuc-nang/01-残疾人.webp",
+    "zh": "残疾人",
+    "pinyin": "cánjírén",
+    "vi": "người khuyết tật"
+  },
+  {
+    "file": "tu-vung/suc-khoe/phuc-hoi-chuc-nang/02-聋人.webp",
+    "zh": "聋人",
+    "pinyin": "lóngrén",
+    "vi": "người điếc"
+  },
+  {
+    "file": "tu-vung/suc-khoe/phuc-hoi-chuc-nang/03-疗养.webp",
+    "zh": "疗养",
+    "pinyin": "liáoyǎng",
+    "vi": "điều dưỡng"
+  },
+  {
+    "file": "tu-vung/suc-khoe/phuc-hoi-chuc-nang/04-康复.webp",
+    "zh": "康复",
+    "pinyin": "kāngfù",
+    "vi": "phục hồi"
+  },
+  {
+    "file": "tu-vung/suc-khoe/phuc-hoi-chuc-nang/05-瘫痪.webp",
+    "zh": "瘫痪",
+    "pinyin": "tānhuàn",
+    "vi": "bại liệt"
+  },
+  {
+    "file": "tu-vung/suc-khoe/phuc-hoi-chuc-nang/06-矫正.webp",
+    "zh": "矫正",
+    "pinyin": "jiǎozhèng",
+    "vi": "chỉnh hình"
+  },
+  {
+    "file": "tu-vung/suc-khoe/phuc-hoi-chuc-nang/07-愈合.webp",
+    "zh": "愈合",
+    "pinyin": "yùhé",
+    "vi": "lành vết thương"
+  },
+  {
+    "file": "tu-vung/suc-khoe/phuc-hoi-chuc-nang/08-复原.webp",
+    "zh": "复原",
+    "pinyin": "fùyuán",
+    "vi": "hồi phục"
+  },
+  {
+    "file": "tu-vung/suc-khoe/phuc-hoi-chuc-nang/09-好转.webp",
+    "zh": "好转",
+    "pinyin": "hǎozhuǎn",
+    "vi": "khá hơn"
+  },
+  {
+    "file": "tu-vung/suc-khoe/phuc-hoi-chuc-nang/10-恢复.webp",
+    "zh": "恢复",
+    "pinyin": "huīfù",
+    "vi": "phục hồi"
+  }
+]

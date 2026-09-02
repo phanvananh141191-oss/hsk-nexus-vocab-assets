@@ -1,0 +1,62 @@
+[
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/chi-phi-sinh-hoat/01-家用.webp",
+    "zh": "家用",
+    "pinyin": "jiāyòng",
+    "vi": "tiền nhà"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/chi-phi-sinh-hoat/02-抚养费.webp",
+    "zh": "抚养费",
+    "pinyin": "fǔyǎngfèi",
+    "vi": "tiền nuôi con"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/chi-phi-sinh-hoat/03-款项.webp",
+    "zh": "款项",
+    "pinyin": "kuǎnxiàng",
+    "vi": "khoản tiền"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/chi-phi-sinh-hoat/04-生活费.webp",
+    "zh": "生活费",
+    "pinyin": "shēnghuófèi",
+    "vi": "tiền sinh hoạt"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/chi-phi-sinh-hoat/05-租金.webp",
+    "zh": "租金",
+    "pinyin": "zūjīn",
+    "vi": "tiền thuê nhà"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/chi-phi-sinh-hoat/06-管理费.webp",
+    "zh": "管理费",
+    "pinyin": "guǎnlǐfèi",
+    "vi": "phí quản lý"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/chi-phi-sinh-hoat/07-缴费.webp",
+    "zh": "缴费",
+    "pinyin": "jiǎofèi",
+    "vi": "nộp tiền"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/chi-phi-sinh-hoat/08-花费.webp",
+    "zh": "花费",
+    "pinyin": "huāfèi",
+    "vi": "chi tiêu"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/chi-phi-sinh-hoat/09-费.webp",
+    "zh": "费",
+    "pinyin": "fèi",
+    "vi": "phí"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/chi-phi-sinh-hoat/10-费用.webp",
+    "zh": "费用",
+    "pinyin": "fèiyòng",
+    "vi": "chi phí"
+  }
+]

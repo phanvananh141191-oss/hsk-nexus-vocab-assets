@@ -1,0 +1,62 @@
+[
+  {
+    "file": "tu-vung/ngon-ngu-hang-ngay/ngay-gio-va-lich-co-ban/01-日历.webp",
+    "zh": "日历",
+    "pinyin": "rìlì",
+    "vi": "lịch"
+  },
+  {
+    "file": "tu-vung/ngon-ngu-hang-ngay/ngay-gio-va-lich-co-ban/02-钟表.webp",
+    "zh": "钟表",
+    "pinyin": "zhōngbiǎo",
+    "vi": "đồng hồ"
+  },
+  {
+    "file": "tu-vung/ngon-ngu-hang-ngay/ngay-gio-va-lich-co-ban/03-分针.webp",
+    "zh": "分针",
+    "pinyin": "fēnzhēn",
+    "vi": "kim phút"
+  },
+  {
+    "file": "tu-vung/ngon-ngu-hang-ngay/ngay-gio-va-lich-co-ban/04-秒针.webp",
+    "zh": "秒针",
+    "pinyin": "miǎozhēn",
+    "vi": "kim giây"
+  },
+  {
+    "file": "tu-vung/ngon-ngu-hang-ngay/ngay-gio-va-lich-co-ban/05-倒计时.webp",
+    "zh": "倒计时",
+    "pinyin": "dàojìshí",
+    "vi": "đếm ngược"
+  },
+  {
+    "file": "tu-vung/ngon-ngu-hang-ngay/ngay-gio-va-lich-co-ban/06-傍晚.webp",
+    "zh": "傍晚",
+    "pinyin": "bàngwǎn",
+    "vi": "chiều tối"
+  },
+  {
+    "file": "tu-vung/ngon-ngu-hang-ngay/ngay-gio-va-lich-co-ban/07-凌晨.webp",
+    "zh": "凌晨",
+    "pinyin": "língchén",
+    "vi": "rạng sáng"
+  },
+  {
+    "file": "tu-vung/ngon-ngu-hang-ngay/ngay-gio-va-lich-co-ban/08-中午.webp",
+    "zh": "中午",
+    "pinyin": "zhōngwǔ",
+    "vi": "buổi trưa"
+  },
+  {
+    "file": "tu-vung/ngon-ngu-hang-ngay/ngay-gio-va-lich-co-ban/09-周末.webp",
+    "zh": "周末",
+    "pinyin": "zhōumò",
+    "vi": "cuối tuần"
+  },
+  {
+    "file": "tu-vung/ngon-ngu-hang-ngay/ngay-gio-va-lich-co-ban/10-日落.webp",
+    "zh": "日落",
+    "pinyin": "rìluò",
+    "vi": "hoàng hôn"
+  }
+]

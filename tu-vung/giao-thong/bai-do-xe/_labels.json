@@ -1,0 +1,32 @@
+[
+  {
+    "file": "tu-vung/giao-thong/bai-do-xe/01-停放.webp",
+    "zh": "停放",
+    "pinyin": "tíngfàng",
+    "vi": "đỗ xe"
+  },
+  {
+    "file": "tu-vung/giao-thong/bai-do-xe/02-停车位.webp",
+    "zh": "停车位",
+    "pinyin": "tíngchēwèi",
+    "vi": "chỗ đỗ xe"
+  },
+  {
+    "file": "tu-vung/giao-thong/bai-do-xe/03-残疾人停车处.webp",
+    "zh": "残疾人停车处",
+    "pinyin": "cánjíréntíngchēchù",
+    "vi": "chỗ đỗ xe cho người khuyết tật"
+  },
+  {
+    "file": "tu-vung/giao-thong/bai-do-xe/04-车位.webp",
+    "zh": "车位",
+    "pinyin": "chēwèi",
+    "vi": "ô đỗ xe"
+  },
+  {
+    "file": "tu-vung/giao-thong/bai-do-xe/05-停.webp",
+    "zh": "停",
+    "pinyin": "tíng",
+    "vi": "dừng"
+  }
+]

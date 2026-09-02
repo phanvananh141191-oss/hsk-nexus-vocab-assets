@@ -1,0 +1,62 @@
+[
+  {
+    "file": "tu-vung/nha-cua/phong-khach/01-书架.webp",
+    "zh": "书架",
+    "pinyin": "shūjià",
+    "vi": "giá sách"
+  },
+  {
+    "file": "tu-vung/nha-cua/phong-khach/02-储物柜.webp",
+    "zh": "储物柜",
+    "pinyin": "chǔwùguì",
+    "vi": "tủ đựng đồ"
+  },
+  {
+    "file": "tu-vung/nha-cua/phong-khach/03-地板.webp",
+    "zh": "地板",
+    "pinyin": "dìbǎn",
+    "vi": "sàn nhà"
+  },
+  {
+    "file": "tu-vung/nha-cua/phong-khach/04-地毯.webp",
+    "zh": "地毯",
+    "pinyin": "dìtǎn",
+    "vi": "thảm"
+  },
+  {
+    "file": "tu-vung/nha-cua/phong-khach/05-壁炉.webp",
+    "zh": "壁炉",
+    "pinyin": "bìlú",
+    "vi": "lò sưởi"
+  },
+  {
+    "file": "tu-vung/nha-cua/phong-khach/06-天花板.webp",
+    "zh": "天花板",
+    "pinyin": "tiānhuābǎn",
+    "vi": "trần nhà"
+  },
+  {
+    "file": "tu-vung/nha-cua/phong-khach/07-客厅.webp",
+    "zh": "客厅",
+    "pinyin": "kètīng",
+    "vi": "phòng khách"
+  },
+  {
+    "file": "tu-vung/nha-cua/phong-khach/08-扶手椅.webp",
+    "zh": "扶手椅",
+    "pinyin": "fúshǒuyǐ",
+    "vi": "ghế bành"
+  },
+  {
+    "file": "tu-vung/nha-cua/phong-khach/09-沙发.webp",
+    "zh": "沙发",
+    "pinyin": "shāfā",
+    "vi": "ghế sofa"
+  },
+  {
+    "file": "tu-vung/nha-cua/phong-khach/10-茶几.webp",
+    "zh": "茶几",
+    "pinyin": "chájī",
+    "vi": "bàn trà"
+  }
+]

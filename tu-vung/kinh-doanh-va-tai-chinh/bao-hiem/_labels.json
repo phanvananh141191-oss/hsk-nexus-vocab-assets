@@ -1,0 +1,26 @@
+[
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/bao-hiem/01-保险.webp",
+    "zh": "保险",
+    "pinyin": "bǎoxiǎn",
+    "vi": "bảo hiểm"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/bao-hiem/02-冻结.webp",
+    "zh": "冻结",
+    "pinyin": "dòngjié",
+    "vi": "phong tỏa"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/bao-hiem/03-抚恤.webp",
+    "zh": "抚恤",
+    "pinyin": "fǔxù",
+    "vi": "tiền tuất"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/bao-hiem/04-担保.webp",
+    "zh": "担保",
+    "pinyin": "dānbǎo",
+    "vi": "bảo lãnh"
+  }
+]

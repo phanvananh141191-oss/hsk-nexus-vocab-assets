@@ -1,0 +1,62 @@
+[
+  {
+    "file": "tu-vung/thuc-pham/an-toan-thuc-pham/01-保质期.webp",
+    "zh": "保质期",
+    "pinyin": "bǎozhìqī",
+    "vi": "hạn sử dụng"
+  },
+  {
+    "file": "tu-vung/thuc-pham/an-toan-thuc-pham/02-加工.webp",
+    "zh": "加工",
+    "pinyin": "jiāgōng",
+    "vi": "chế biến"
+  },
+  {
+    "file": "tu-vung/thuc-pham/an-toan-thuc-pham/03-原汁原味.webp",
+    "zh": "原汁原味",
+    "pinyin": "yuánzhīyuánwèi",
+    "vi": "nguyên vị"
+  },
+  {
+    "file": "tu-vung/thuc-pham/an-toan-thuc-pham/04-变质.webp",
+    "zh": "变质",
+    "pinyin": "biànzhì",
+    "vi": "biến chất"
+  },
+  {
+    "file": "tu-vung/thuc-pham/an-toan-thuc-pham/05-坏了.webp",
+    "zh": "坏了",
+    "pinyin": "huàile",
+    "vi": "hỏng"
+  },
+  {
+    "file": "tu-vung/thuc-pham/an-toan-thuc-pham/06-忌.webp",
+    "zh": "忌",
+    "pinyin": "jì",
+    "vi": "kiêng"
+  },
+  {
+    "file": "tu-vung/thuc-pham/an-toan-thuc-pham/07-忌口.webp",
+    "zh": "忌口",
+    "pinyin": "jìkǒu",
+    "vi": "kiêng ăn"
+  },
+  {
+    "file": "tu-vung/thuc-pham/an-toan-thuc-pham/08-热量.webp",
+    "zh": "热量",
+    "pinyin": "rèliàng",
+    "vi": "calo"
+  },
+  {
+    "file": "tu-vung/thuc-pham/an-toan-thuc-pham/09-熟了.webp",
+    "zh": "熟了",
+    "pinyin": "shúle",
+    "vi": "đã chín"
+  },
+  {
+    "file": "tu-vung/thuc-pham/an-toan-thuc-pham/10-还没熟.webp",
+    "zh": "还没熟",
+    "pinyin": "háiméishú",
+    "vi": "chưa chín"
+  }
+]

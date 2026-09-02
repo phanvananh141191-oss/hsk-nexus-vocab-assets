@@ -1,0 +1,62 @@
+[
+  {
+    "file": "tu-vung/nha-cua/xu-ly-rac/01-分类箱.webp",
+    "zh": "分类箱",
+    "pinyin": "fēnlèixiāng",
+    "vi": "thùng phân loại"
+  },
+  {
+    "file": "tu-vung/nha-cua/xu-ly-rac/02-垃圾.webp",
+    "zh": "垃圾",
+    "pinyin": "lājī",
+    "vi": "rác"
+  },
+  {
+    "file": "tu-vung/nha-cua/xu-ly-rac/03-垃圾回收箱.webp",
+    "zh": "垃圾回收箱",
+    "pinyin": "lājīhuíshōuxiāng",
+    "vi": "thùng tái chế"
+  },
+  {
+    "file": "tu-vung/nha-cua/xu-ly-rac/04-垃圾桶.webp",
+    "zh": "垃圾桶",
+    "pinyin": "lājītǒng",
+    "vi": "thùng rác"
+  },
+  {
+    "file": "tu-vung/nha-cua/xu-ly-rac/05-垃圾箱.webp",
+    "zh": "垃圾箱",
+    "pinyin": "lājīxiāng",
+    "vi": "thùng rác ngoài trời"
+  },
+  {
+    "file": "tu-vung/nha-cua/xu-ly-rac/06-有机废物.webp",
+    "zh": "有机废物",
+    "pinyin": "yǒujīfèiwù",
+    "vi": "rác hữu cơ"
+  },
+  {
+    "file": "tu-vung/nha-cua/xu-ly-rac/07-盖子.webp",
+    "zh": "盖子",
+    "pinyin": "gàizi",
+    "vi": "nắp"
+  },
+  {
+    "file": "tu-vung/nha-cua/xu-ly-rac/08-踏板.webp",
+    "zh": "踏板",
+    "pinyin": "tàbǎn",
+    "vi": "bàn đạp"
+  },
+  {
+    "file": "tu-vung/nha-cua/xu-ly-rac/09-废品.webp",
+    "zh": "废品",
+    "pinyin": "fèipǐn",
+    "vi": "phế liệu"
+  },
+  {
+    "file": "tu-vung/nha-cua/xu-ly-rac/10-废物.webp",
+    "zh": "废物",
+    "pinyin": "fèiwù",
+    "vi": "đồ thải"
+  }
+]

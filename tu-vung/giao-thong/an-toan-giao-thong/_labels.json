@@ -1,0 +1,38 @@
+[
+  {
+    "file": "tu-vung/giao-thong/an-toan-giao-thong/01-减速.webp",
+    "zh": "减速",
+    "pinyin": "jiǎnsù",
+    "vi": "giảm tốc"
+  },
+  {
+    "file": "tu-vung/giao-thong/an-toan-giao-thong/02-安检.webp",
+    "zh": "安检",
+    "pinyin": "ānjiǎn",
+    "vi": "kiểm tra an ninh"
+  },
+  {
+    "file": "tu-vung/giao-thong/an-toan-giao-thong/03-超车.webp",
+    "zh": "超车",
+    "pinyin": "chāochē",
+    "vi": "vượt xe"
+  },
+  {
+    "file": "tu-vung/giao-thong/an-toan-giao-thong/04-超速.webp",
+    "zh": "超速",
+    "pinyin": "chāosù",
+    "vi": "vượt quá tốc độ"
+  },
+  {
+    "file": "tu-vung/giao-thong/an-toan-giao-thong/05-车速.webp",
+    "zh": "车速",
+    "pinyin": "chēsù",
+    "vi": "tốc độ xe"
+  },
+  {
+    "file": "tu-vung/giao-thong/an-toan-giao-thong/06-速度.webp",
+    "zh": "速度",
+    "pinyin": "sùdù",
+    "vi": "tốc độ"
+  }
+]

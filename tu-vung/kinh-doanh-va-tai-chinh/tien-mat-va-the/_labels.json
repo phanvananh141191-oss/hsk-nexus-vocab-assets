@@ -1,0 +1,62 @@
+[
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/tien-mat-va-the/01-硬币.webp",
+    "zh": "硬币",
+    "pinyin": "yìngbì",
+    "vi": "tiền xu"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/tien-mat-va-the/02-金子.webp",
+    "zh": "金子",
+    "pinyin": "jīnzi",
+    "vi": "vàng"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/tien-mat-va-the/03-黄金.webp",
+    "zh": "黄金",
+    "pinyin": "huángjīn",
+    "vi": "vàng thỏi"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/tien-mat-va-the/04-钞票.webp",
+    "zh": "钞票",
+    "pinyin": "chāopiào",
+    "vi": "tiền giấy"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/tien-mat-va-the/05-零钱.webp",
+    "zh": "零钱",
+    "pinyin": "língqián",
+    "vi": "tiền lẻ"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/tien-mat-va-the/06-奖券.webp",
+    "zh": "奖券",
+    "pinyin": "jiǎngquàn",
+    "vi": "vé số"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/tien-mat-va-the/07-兑换.webp",
+    "zh": "兑换",
+    "pinyin": "duìhuàn",
+    "vi": "đổi tiền"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/tien-mat-va-the/08-掏钱.webp",
+    "zh": "掏钱",
+    "pinyin": "tāoqián",
+    "vi": "móc tiền"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/tien-mat-va-the/09-支付.webp",
+    "zh": "支付",
+    "pinyin": "zhīfù",
+    "vi": "thanh toán"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/tien-mat-va-the/10-抽奖.webp",
+    "zh": "抽奖",
+    "pinyin": "chōujiǎng",
+    "vi": "bốc thăm"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "file": "tu-vung/giao-thong/xe-buyt/01-公交车.webp",
+    "zh": "公交车",
+    "pinyin": "gōngjiāochē",
+    "vi": "xe buýt công cộng"
+  },
+  {
+    "file": "tu-vung/giao-thong/xe-buyt/02-司机.webp",
+    "zh": "司机",
+    "pinyin": "sījī",
+    "vi": "tài xế"
+  },
+  {
+    "file": "tu-vung/giao-thong/xe-buyt/03-大巴.webp",
+    "zh": "大巴",
+    "pinyin": "dàbā",
+    "vi": "xe buýt lớn"
+  },
+  {
+    "file": "tu-vung/giao-thong/xe-buyt/04-客车.webp",
+    "zh": "客车",
+    "pinyin": "kèchē",
+    "vi": "xe khách"
+  },
+  {
+    "file": "tu-vung/giao-thong/xe-buyt/05-巴士.webp",
+    "zh": "巴士",
+    "pinyin": "bāshì",
+    "vi": "xe buýt"
+  },
+  {
+    "file": "tu-vung/giao-thong/xe-buyt/06-自动门.webp",
+    "zh": "自动门",
+    "pinyin": "zìdòngmén",
+    "vi": "cửa tự động"
+  },
+  {
+    "file": "tu-vung/giao-thong/xe-buyt/07-车费.webp",
+    "zh": "车费",
+    "pinyin": "chēfèi",
+    "vi": "tiền vé xe"
+  },
+  {
+    "file": "tu-vung/giao-thong/xe-buyt/08-轮椅通道.webp",
+    "zh": "轮椅通道",
+    "pinyin": "lúnyǐtōngdào",
+    "vi": "lối xe lăn"
+  },
+  {
+    "file": "tu-vung/giao-thong/xe-buyt/09-前轮.webp",
+    "zh": "前轮",
+    "pinyin": "qiánlún",
+    "vi": "bánh trước"
+  },
+  {
+    "file": "tu-vung/giao-thong/xe-buyt/10-后轮.webp",
+    "zh": "后轮",
+    "pinyin": "hòulún",
+    "vi": "bánh sau"
+  }
+]

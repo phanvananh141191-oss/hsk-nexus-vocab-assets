@@ -1,0 +1,62 @@
+[
+  {
+    "file": "tu-vung/giao-thong/phuong-tien-cong-cong/01-乘客.webp",
+    "zh": "乘客",
+    "pinyin": "chéngkè",
+    "vi": "hành khách"
+  },
+  {
+    "file": "tu-vung/giao-thong/phuong-tien-cong-cong/02-公共汽车候车亭.webp",
+    "zh": "公共汽车候车亭",
+    "pinyin": "gōnggòngqìchēhòuchētíng",
+    "vi": "nhà chờ xe buýt"
+  },
+  {
+    "file": "tu-vung/giao-thong/phuong-tien-cong-cong/03-公共汽车总站.webp",
+    "zh": "公共汽车总站",
+    "pinyin": "gōnggòngqìchēzǒngzhàn",
+    "vi": "bến xe buýt chính"
+  },
+  {
+    "file": "tu-vung/giao-thong/phuong-tien-cong-cong/04-公共汽车站.webp",
+    "zh": "公共汽车站",
+    "pinyin": "gōnggòngqìchēzhàn",
+    "vi": "trạm xe buýt"
+  },
+  {
+    "file": "tu-vung/giao-thong/phuong-tien-cong-cong/05-双层公共汽车.webp",
+    "zh": "双层公共汽车",
+    "pinyin": "shuāngcénggōnggòngqìchē",
+    "vi": "xe buýt hai tầng"
+  },
+  {
+    "file": "tu-vung/giao-thong/phuong-tien-cong-cong/06-小型公共汽车.webp",
+    "zh": "小型公共汽车",
+    "pinyin": "xiǎoxínggōnggòngqìchē",
+    "vi": "xe buýt nhỏ"
+  },
+  {
+    "file": "tu-vung/giao-thong/phuong-tien-cong-cong/07-无轨电车.webp",
+    "zh": "无轨电车",
+    "pinyin": "wúguǐdiànchē",
+    "vi": "xe điện bánh hơi"
+  },
+  {
+    "file": "tu-vung/giao-thong/phuong-tien-cong-cong/08-月票.webp",
+    "zh": "月票",
+    "pinyin": "yuèpiào",
+    "vi": "vé tháng"
+  },
+  {
+    "file": "tu-vung/giao-thong/phuong-tien-cong-cong/09-让座.webp",
+    "zh": "让座",
+    "pinyin": "ràngzuò",
+    "vi": "nhường ghế"
+  },
+  {
+    "file": "tu-vung/giao-thong/phuong-tien-cong-cong/10-枢纽.webp",
+    "zh": "枢纽",
+    "pinyin": "shūniǔ",
+    "vi": "nút trung chuyển"
+  }
+]

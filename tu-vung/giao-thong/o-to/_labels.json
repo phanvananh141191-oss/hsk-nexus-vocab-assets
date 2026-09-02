@@ -1,0 +1,62 @@
+[
+  {
+    "file": "tu-vung/giao-thong/o-to/01-上车.webp",
+    "zh": "上车",
+    "pinyin": "shàngchē",
+    "vi": "lên xe"
+  },
+  {
+    "file": "tu-vung/giao-thong/o-to/02-下车.webp",
+    "zh": "下车",
+    "pinyin": "xiàchē",
+    "vi": "xuống xe"
+  },
+  {
+    "file": "tu-vung/giao-thong/o-to/03-二手车.webp",
+    "zh": "二手车",
+    "pinyin": "èrshǒuchē",
+    "vi": "xe cũ"
+  },
+  {
+    "file": "tu-vung/giao-thong/o-to/04-倒车.webp",
+    "zh": "倒车",
+    "pinyin": "dàochē",
+    "vi": "lùi xe"
+  },
+  {
+    "file": "tu-vung/giao-thong/o-to/05-安全气囊.webp",
+    "zh": "安全气囊",
+    "pinyin": "ānquánqìnáng",
+    "vi": "túi khí"
+  },
+  {
+    "file": "tu-vung/giao-thong/o-to/06-暖风开关.webp",
+    "zh": "暖风开关",
+    "pinyin": "nuǎnfēngkāiguān",
+    "vi": "công tắc sưởi"
+  },
+  {
+    "file": "tu-vung/giao-thong/o-to/07-油量表.webp",
+    "zh": "油量表",
+    "pinyin": "yóuliàngbiǎo",
+    "vi": "đồng hồ xăng"
+  },
+  {
+    "file": "tu-vung/giao-thong/o-to/08-牌照.webp",
+    "zh": "牌照",
+    "pinyin": "páizhào",
+    "vi": "biển số"
+  },
+  {
+    "file": "tu-vung/giao-thong/o-to/09-车速表.webp",
+    "zh": "车速表",
+    "pinyin": "chēsùbiǎo",
+    "vi": "đồng hồ tốc độ"
+  },
+  {
+    "file": "tu-vung/giao-thong/o-to/10-里程表.webp",
+    "zh": "里程表",
+    "pinyin": "lǐchéngbiǎo",
+    "vi": "đồng hồ công-tơ-mét"
+  }
+]

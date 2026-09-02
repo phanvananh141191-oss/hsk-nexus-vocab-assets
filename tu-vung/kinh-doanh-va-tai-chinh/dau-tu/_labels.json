@@ -1,0 +1,62 @@
+[
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/dau-tu/01-股票.webp",
+    "zh": "股票",
+    "pinyin": "gǔpiào",
+    "vi": "cổ phiếu"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/dau-tu/02-股市.webp",
+    "zh": "股市",
+    "pinyin": "gǔshì",
+    "vi": "thị trường chứng khoán"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/dau-tu/03-股民.webp",
+    "zh": "股民",
+    "pinyin": "gǔmín",
+    "vi": "nhà đầu tư chứng khoán"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/dau-tu/04-基金.webp",
+    "zh": "基金",
+    "pinyin": "jījīn",
+    "vi": "quỹ đầu tư"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/dau-tu/05-炒股.webp",
+    "zh": "炒股",
+    "pinyin": "chǎogǔ",
+    "vi": "lướt sóng cổ phiếu"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/dau-tu/06-指数.webp",
+    "zh": "指数",
+    "pinyin": "zhǐshù",
+    "vi": "chỉ số"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/dau-tu/07-上市.webp",
+    "zh": "上市",
+    "pinyin": "shàngshì",
+    "vi": "niêm yết"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/dau-tu/08-券.webp",
+    "zh": "券",
+    "pinyin": "quàn",
+    "vi": "phiếu chứng khoán"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/dau-tu/09-资本.webp",
+    "zh": "资本",
+    "pinyin": "zīběn",
+    "vi": "tư bản"
+  },
+  {
+    "file": "tu-vung/kinh-doanh-va-tai-chinh/dau-tu/10-本钱.webp",
+    "zh": "本钱",
+    "pinyin": "běnqián",
+    "vi": "vốn"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "file": "tu-vung/giao-thong/tau-thuyen/01-充气式橡皮艇.webp",
+    "zh": "充气式橡皮艇",
+    "pinyin": "chōngqìshìxiàngpítǐng",
+    "vi": "thuyền hơi"
+  },
+  {
+    "file": "tu-vung/giao-thong/tau-thuyen/02-军舰.webp",
+    "zh": "军舰",
+    "pinyin": "jūnjiàn",
+    "vi": "tàu chiến"
+  },
+  {
+    "file": "tu-vung/giao-thong/tau-thuyen/03-双体船.webp",
+    "zh": "双体船",
+    "pinyin": "shuāngtǐchuán",
+    "vi": "thuyền hai thân"
+  },
+  {
+    "file": "tu-vung/giao-thong/tau-thuyen/04-气垫船.webp",
+    "zh": "气垫船",
+    "pinyin": "qìdiànchuán",
+    "vi": "tàu đệm khí"
+  },
+  {
+    "file": "tu-vung/giao-thong/tau-thuyen/05-油轮.webp",
+    "zh": "油轮",
+    "pinyin": "yóulún",
+    "vi": "tàu chở dầu"
+  },
+  {
+    "file": "tu-vung/giao-thong/tau-thuyen/06-渡船.webp",
+    "zh": "渡船",
+    "pinyin": "dùchuán",
+    "vi": "phà"
+  },
+  {
+    "file": "tu-vung/giao-thong/tau-thuyen/07-潜水艇.webp",
+    "zh": "潜水艇",
+    "pinyin": "qiánshuǐtǐng",
+    "vi": "tàu ngầm"
+  },
+  {
+    "file": "tu-vung/giao-thong/tau-thuyen/08-航空母舰.webp",
+    "zh": "航空母舰",
+    "pinyin": "hángkōngmǔjiàn",
+    "vi": "tàu sân bay"
+  },
+  {
+    "file": "tu-vung/giao-thong/tau-thuyen/09-集装箱船.webp",
+    "zh": "集装箱船",
+    "pinyin": "jízhuāngxiāngchuán",
+    "vi": "tàu container"
+  },
+  {
+    "file": "tu-vung/giao-thong/tau-thuyen/10-轮船.webp",
+    "zh": "轮船",
+    "pinyin": "lúnchuán",
+    "vi": "tàu thủy"
+  }
+]

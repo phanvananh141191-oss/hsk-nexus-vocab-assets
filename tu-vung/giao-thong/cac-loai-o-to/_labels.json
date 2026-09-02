@@ -1,0 +1,62 @@
+[
+  {
+    "file": "tu-vung/giao-thong/cac-loai-o-to/01-三厢车.webp",
+    "zh": "三厢车",
+    "pinyin": "sānxiāngchē",
+    "vi": "xe sedan ba khoang"
+  },
+  {
+    "file": "tu-vung/giao-thong/cac-loai-o-to/02-六座厢式车.webp",
+    "zh": "六座厢式车",
+    "pinyin": "liùzuòxiāngshìchē",
+    "vi": "xe van sáu chỗ"
+  },
+  {
+    "file": "tu-vung/giao-thong/cac-loai-o-to/03-吉普.webp",
+    "zh": "吉普",
+    "pinyin": "jípǔ",
+    "vi": "xe jeep"
+  },
+  {
+    "file": "tu-vung/giao-thong/cac-loai-o-to/04-四轮驱动车.webp",
+    "zh": "四轮驱动车",
+    "pinyin": "sìlúnqūdòngchē",
+    "vi": "xe bốn bánh chủ động"
+  },
+  {
+    "file": "tu-vung/giao-thong/cac-loai-o-to/05-大型高级轿车.webp",
+    "zh": "大型高级轿车",
+    "pinyin": "dàxínggāojíjiàochē",
+    "vi": "xe limousine"
+  },
+  {
+    "file": "tu-vung/giao-thong/cac-loai-o-to/06-客货两用车.webp",
+    "zh": "客货两用车",
+    "pinyin": "kèhuòliǎngyòngchē",
+    "vi": "xe vừa chở khách vừa chở hàng"
+  },
+  {
+    "file": "tu-vung/giao-thong/cac-loai-o-to/07-家庭轿车.webp",
+    "zh": "家庭轿车",
+    "pinyin": "jiātíngjiàochē",
+    "vi": "xe gia đình"
+  },
+  {
+    "file": "tu-vung/giao-thong/cac-loai-o-to/08-微型车.webp",
+    "zh": "微型车",
+    "pinyin": "wēixíngchē",
+    "vi": "xe siêu nhỏ"
+  },
+  {
+    "file": "tu-vung/giao-thong/cac-loai-o-to/09-揭背式轿车.webp",
+    "zh": "揭背式轿车",
+    "pinyin": "jiēbèishìjiàochē",
+    "vi": "xe hatchback"
+  },
+  {
+    "file": "tu-vung/giao-thong/cac-loai-o-to/10-老式汽车.webp",
+    "zh": "老式汽车",
+    "pinyin": "lǎoshìqìchē",
+    "vi": "ô tô cổ"
+  }
+]

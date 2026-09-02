@@ -1,0 +1,62 @@
+[
+  {
+    "file": "tu-vung/con-nguoi/noi-tang/01-心脏.webp",
+    "zh": "心脏",
+    "pinyin": "xīnzàng",
+    "vi": "tim"
+  },
+  {
+    "file": "tu-vung/con-nguoi/noi-tang/02-大肠.webp",
+    "zh": "大肠",
+    "pinyin": "dàcháng",
+    "vi": "ruột già"
+  },
+  {
+    "file": "tu-vung/con-nguoi/noi-tang/03-小肠.webp",
+    "zh": "小肠",
+    "pinyin": "xiǎocháng",
+    "vi": "ruột non"
+  },
+  {
+    "file": "tu-vung/con-nguoi/noi-tang/04-气管.webp",
+    "zh": "气管",
+    "pinyin": "qìguǎn",
+    "vi": "khí quản"
+  },
+  {
+    "file": "tu-vung/con-nguoi/noi-tang/05-肝脏.webp",
+    "zh": "肝脏",
+    "pinyin": "gānzàng",
+    "vi": "gan"
+  },
+  {
+    "file": "tu-vung/con-nguoi/noi-tang/06-肺.webp",
+    "zh": "肺",
+    "pinyin": "fèi",
+    "vi": "phổi"
+  },
+  {
+    "file": "tu-vung/con-nguoi/noi-tang/07-肾脏.webp",
+    "zh": "肾脏",
+    "pinyin": "shènzàng",
+    "vi": "thận"
+  },
+  {
+    "file": "tu-vung/con-nguoi/noi-tang/08-膀胱.webp",
+    "zh": "膀胱",
+    "pinyin": "pángguāng",
+    "vi": "bàng quang"
+  },
+  {
+    "file": "tu-vung/con-nguoi/noi-tang/09-胃.webp",
+    "zh": "胃",
+    "pinyin": "wèi",
+    "vi": "dạ dày"
+  },
+  {
+    "file": "tu-vung/con-nguoi/noi-tang/10-阑尾.webp",
+    "zh": "阑尾",
+    "pinyin": "lánwěi",
+    "vi": "ruột thừa"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "file": "tu-vung/giao-thong/di-bo/01-徒步.webp",
+    "zh": "徒步",
+    "pinyin": "túbù",
+    "vi": "đi bộ đường dài"
+  },
+  {
+    "file": "tu-vung/giao-thong/di-bo/02-行人.webp",
+    "zh": "行人",
+    "pinyin": "xíngrén",
+    "vi": "người đi bộ"
+  },
+  {
+    "file": "tu-vung/giao-thong/di-bo/03-行走.webp",
+    "zh": "行走",
+    "pinyin": "xíngzǒu",
+    "vi": "đi bộ"
+  },
+  {
+    "file": "tu-vung/giao-thong/di-bo/04-走路.webp",
+    "zh": "走路",
+    "pinyin": "zǒulù",
+    "vi": "bước đi"
+  },
+  {
+    "file": "tu-vung/giao-thong/di-bo/05-散步.webp",
+    "zh": "散步",
+    "pinyin": "sànbù",
+    "vi": "đi dạo"
+  },
+  {
+    "file": "tu-vung/giao-thong/di-bo/06-穿过.webp",
+    "zh": "穿过",
+    "pinyin": "chuānguò",
+    "vi": "đi xuyên qua"
+  },
+  {
+    "file": "tu-vung/giao-thong/di-bo/07-站住.webp",
+    "zh": "站住",
+    "pinyin": "zhànzhù",
+    "vi": "đứng lại"
+  },
+  {
+    "file": "tu-vung/giao-thong/di-bo/08-迷路.webp",
+    "zh": "迷路",
+    "pinyin": "mílù",
+    "vi": "lạc đường"
+  },
+  {
+    "file": "tu-vung/giao-thong/di-bo/09-跑.webp",
+    "zh": "跑",
+    "pinyin": "pǎo",
+    "vi": "chạy"
+  },
+  {
+    "file": "tu-vung/giao-thong/di-bo/10-跨.webp",
+    "zh": "跨",
+    "pinyin": "kuà",
+    "vi": "bước qua"
+  }
+]

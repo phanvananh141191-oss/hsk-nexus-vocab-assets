@@ -1,0 +1,62 @@
+[
+  {
+    "file": "tu-vung/hoc-tap-va-giao-duc/hoc-ngoai-ngu/01-字典.webp",
+    "zh": "字典",
+    "pinyin": "zìdiǎn",
+    "vi": "từ điển"
+  },
+  {
+    "file": "tu-vung/hoc-tap-va-giao-duc/hoc-ngoai-ngu/02-口语.webp",
+    "zh": "口语",
+    "pinyin": "kǒuyǔ",
+    "vi": "khẩu ngữ"
+  },
+  {
+    "file": "tu-vung/hoc-tap-va-giao-duc/hoc-ngoai-ngu/03-汉字.webp",
+    "zh": "汉字",
+    "pinyin": "hànzì",
+    "vi": "chữ Hán"
+  },
+  {
+    "file": "tu-vung/hoc-tap-va-giao-duc/hoc-ngoai-ngu/04-英语.webp",
+    "zh": "英语",
+    "pinyin": "yīngyǔ",
+    "vi": "tiếng Anh"
+  },
+  {
+    "file": "tu-vung/hoc-tap-va-giao-duc/hoc-ngoai-ngu/05-法语.webp",
+    "zh": "法语",
+    "pinyin": "fǎyǔ",
+    "vi": "tiếng Pháp"
+  },
+  {
+    "file": "tu-vung/hoc-tap-va-giao-duc/hoc-ngoai-ngu/06-日语.webp",
+    "zh": "日语",
+    "pinyin": "rìyǔ",
+    "vi": "tiếng Nhật"
+  },
+  {
+    "file": "tu-vung/hoc-tap-va-giao-duc/hoc-ngoai-ngu/07-朗读.webp",
+    "zh": "朗读",
+    "pinyin": "lǎngdú",
+    "vi": "đọc thành tiếng"
+  },
+  {
+    "file": "tu-vung/hoc-tap-va-giao-duc/hoc-ngoai-ngu/08-翻译.webp",
+    "zh": "翻译",
+    "pinyin": "fānyì",
+    "vi": "dịch"
+  },
+  {
+    "file": "tu-vung/hoc-tap-va-giao-duc/hoc-ngoai-ngu/09-演讲.webp",
+    "zh": "演讲",
+    "pinyin": "yǎnjiǎng",
+    "vi": "diễn thuyết"
+  },
+  {
+    "file": "tu-vung/hoc-tap-va-giao-duc/hoc-ngoai-ngu/10-外语.webp",
+    "zh": "外语",
+    "pinyin": "wàiyǔ",
+    "vi": "ngoại ngữ"
+  }
+]
